@@ -1,0 +1,2400 @@
+[1.0] control stream secur action access_control attribut_role properti polici access user privileg
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] queue oper task concurr thread lock line method list metric algorithm
+	System Chosen Intruder Word = metric
+	True Intruder Word = metric
+
+[0.0] dual command point facet coreset distanc problem svm polytop step algorithm
+	System Chosen Intruder Word = coreset
+	True Intruder Word = command
+
+[0.0] region genom breakpoint reput sequenc align score block repeat mous human
+	System Chosen Intruder Word = breakpoint
+	True Intruder Word = reput
+
+[0.0] workload call instruct tabl trace hmm workflow state footprint cach kernel
+	System Chosen Intruder Word = hmm
+	True Intruder Word = workflow
+
+[1.0] contour prove allel level locu recombin doc loci pedigre attribut_role logic
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] control system reput deleg scheme decis servic state implement attack properti
+	System Chosen Intruder Word = deleg
+	True Intruder Word = reput
+
+[1.0] author control ontolog quanta request owl action class polici object access
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[1.0] linear oper quanta matrix block comput perform implement processor execut algorithm
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] softwar buffer memori scheme hardwar_transact data shape line hardwar hybrid mode
+	System Chosen Intruder Word = hardwar_transact
+	True Intruder Word = shape
+
+[0.0] gene model protein set domain data score command frequenc express phase
+	System Chosen Intruder Word = score
+	True Intruder Word = command
+
+[1.0] time graph enumer edg tree set triangul algorithm workflow cross span
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] system list model level ownership tree program file ifedac type xmodul
+	System Chosen Intruder Word = ifedac
+	True Intruder Word = list
+
+[0.0] memori_transact transact quanta commit oper lock write read conflict object abort
+	System Chosen Intruder Word = memori_transact
+	True Intruder Word = quanta
+
+[0.0] node transact tree trace elimin program comput conflict access ancestor abort
+	System Chosen Intruder Word = abort
+	True Intruder Word = elimin
+
+[1.0] control model deleg duti separ role metric properti activ access rbac
+	System Chosen Intruder Word = metric
+	True Intruder Word = metric
+
+[0.0] barrier paus program concurr command thread object garbag phase applic collect
+	System Chosen Intruder Word = garbag
+	True Intruder Word = command
+
+[0.0] work polen le set_work set network_system wsbac devic user command network
+	System Chosen Intruder Word = set_work
+	True Intruder Word = command
+
+[0.0] locat transact orec set stm geodes lock write base read perform
+	System Chosen Intruder Word = orec
+	True Intruder Word = geodes
+
+[0.0] sensor parallel node simul host depend task densiti workflow thread execut
+	System Chosen Intruder Word = densiti
+	True Intruder Word = workflow
+
+[1.0] lattic polyhedra repres union tile polyhedron attribut_role polyhedr affin function represent
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] condit model assign time quanta session trust set tag rule primer
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[1.0] process system node failur thread state checkpoint execut applic recoveri trie
+	System Chosen Intruder Word = trie
+	True Intruder Word = trie
+
+[0.0] assign set permiss assign_role relat role access user shape role_user rbac
+	System Chosen Intruder Word = assign_role
+	True Intruder Word = shape
+
+[0.0] prime atom node command transact event trace write conflict view algorithm
+	System Chosen Intruder Word = node
+	True Intruder Word = command
+
+[0.0] limit transistor refer voltag bandgap current refer_voltag command circuit temperatur low
+	System Chosen Intruder Word = refer_voltag
+	True Intruder Word = command
+
+[0.0] prime point graph tree hyperbol structur metric geodes distanc comput space
+	System Chosen Intruder Word = prime
+	True Intruder Word = structur
+
+[1.0] site pattern sequenc matrix pro score signal bind zigzag motif quanta
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] prime coordin prime_vextendsingl shape point degre equat transvers line predic vextendsingl
+	System Chosen Intruder Word = prime_vextendsingl
+	True Intruder Word = shape
+
+[0.0] control resourc share model collabor command context base role polici access
+	System Chosen Intruder Word = collabor
+	True Intruder Word = command
+
+[0.0] work parallel steal quanta time quantum command job schedul processor job_schedul
+	System Chosen Intruder Word = job_schedul
+	True Intruder Word = command
+
+[1.0] point result surfac set manifold map distanc denot space function reput
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] site pssm model elimin gene atr sequenc score learn bind motif
+	System Chosen Intruder Word = atr
+	True Intruder Word = elimin
+
+[0.0] queri control node updat rule data metric access_control xml access insert
+	System Chosen Intruder Word = access_control
+	True Intruder Word = metric
+
+[0.0] control author alloi workflow model specif system constraint access_control polici access
+	System Chosen Intruder Word = access_control
+	True Intruder Word = workflow
+
+[0.0] parallel stream specul tl task program share depend thread loop execut
+	System Chosen Intruder Word = tl
+	True Intruder Word = share
+
+[0.0] energi cpn reput time group_polici rule voltag domain group transit flip
+	System Chosen Intruder Word = group_polici
+	True Intruder Word = reput
+
+[0.0] complex model graph pair protein physic data interact interact_protein function shape
+	System Chosen Intruder Word = interact_protein
+	True Intruder Word = shape
+
+[1.0] result model gener sequenc set data base number method shape algorithm
+	System Chosen Intruder Word = shape
+	True Intruder Word = shape
+
+[0.0] genu surfac graph edg gener cycl planar comput algorithm reput cross
+	System Chosen Intruder Word = genu
+	True Intruder Word = reput
+
+[1.0] point connect plane set intersect comput attribut_role object exist bound size
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] safe level vmm page normal implement access workflow agent goal iblp
+	System Chosen Intruder Word = iblp
+	True Intruder Word = workflow
+
+[0.0] field place_type system program reput variabl infer distribut object type place
+	System Chosen Intruder Word = place_type
+	True Intruder Word = reput
+
+[1.0] control inform system integr secur level requir data polici workflow access
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] line_segment point homotopi segment path distanc grid line trie comput class
+	System Chosen Intruder Word = line_segment
+	True Intruder Word = trie
+
+[0.0] control inform author system elimin secur base access_control polici access user
+	System Chosen Intruder Word = access_control
+	True Intruder Word = elimin
+
+[0.0] bit parallel stream byte tabl prefix trie perform elimin utf algorithm
+	System Chosen Intruder Word = trie
+	True Intruder Word = elimin
+
+[0.0] memori level structur oper program runtim data comput perform processor compil
+	System Chosen Intruder Word = compil
+	True Intruder Word = structur
+
+[1.0] polygon point time edg plane segment disjoint trie line boundari convex
+	System Chosen Intruder Word = trie
+	True Intruder Word = trie
+
+[0.0] queue gene time predict elimin data job classi comput method express
+	System Chosen Intruder Word = classi
+	True Intruder Word = elimin
+
+[0.0] site graph symbol state polici diagram administr metric case diagram_voronoi algorithm
+	System Chosen Intruder Word = diagram_voronoi
+	True Intruder Word = metric
+
+[0.0] parallel oper program tile partit hta comput code workflow arrai algorithm
+	System Chosen Intruder Word = hta
+	True Intruder Word = workflow
+
+[0.0] call prioriti depend tabl thread method view run elimin databas applic
+	System Chosen Intruder Word = thread
+	True Intruder Word = elimin
+
+[1.0] queri workflow system fact tree entiti consist comput view construct function
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] parallel workshop stakehold permiss comput cluster server cach framework applic structur
+	System Chosen Intruder Word = workshop
+	True Intruder Word = structur
+
+[1.0] transistor model voltag cell circuit devic technolog design logic reput gate
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] minim bodi graph edg disk path list rigid hing realiz framework
+	System Chosen Intruder Word = hing
+	True Intruder Word = list
+
+[0.0] node share time assign graph edg scheme comput hierarchi access kei
+	System Chosen Intruder Word = hierarchi
+	True Intruder Word = share
+
+[0.0] selinux spawn futur level secur polici analysi command flow object ml
+	System Chosen Intruder Word = ml
+	True Intruder Word = command
+
+[0.0] process resourc trust elimin manag domain distribut comput horizont access applic
+	System Chosen Intruder Word = horizont
+	True Intruder Word = elimin
+
+[0.0] terrain chip platform system visibl map reput front partial end vga
+	System Chosen Intruder Word = vga
+	True Intruder Word = reput
+
+[0.0] platform time thread cpu schedul worker round elimin dwrr fair algorithm
+	System Chosen Intruder Word = dwrr
+	True Intruder Word = elimin
+
+[1.0] parallel call geodes oper program thread data method perform execut serial
+	System Chosen Intruder Word = geodes
+	True Intruder Word = geodes
+
+[0.0] gene pair genom sequenc conserv structur regul crm word express motif
+	System Chosen Intruder Word = crm
+	True Intruder Word = structur
+
+[1.0] negoti_trust resourc system negoti secur client traust attribut_role trust trace server
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] work memori system address elimin data processor access design size algorithm
+	System Chosen Intruder Word = elimin
+	True Intruder Word = elimin
+
+[0.0] mpi secur list level pattern gener oper rdf label type net
+	System Chosen Intruder Word = mpi
+	True Intruder Word = list
+
+[0.0] parallel command machin tree data_set set data mine scan local reduct
+	System Chosen Intruder Word = data_set
+	True Intruder Word = command
+
+[0.0] point unit cover ball cover_set set disk quanta epsilon approxim bound
+	System Chosen Intruder Word = cover_set
+	True Intruder Word = quanta
+
+[0.0] model assign deleg graph role administr user privileg deleg_role delegate workflow
+	System Chosen Intruder Word = deleg_role
+	True Intruder Word = workflow
+
+[0.0] resourc set grid persist diagram adapt diagram_persist shape modul applic collect
+	System Chosen Intruder Word = diagram_persist
+	True Intruder Word = shape
+
+[1.0] authent resourc file tag command grid user ssh mesh metric kei
+	System Chosen Intruder Word = metric
+	True Intruder Word = metric
+
+[0.0] queri metric point structur rang cell report cach space log bound
+	System Chosen Intruder Word = cach
+	True Intruder Word = metric
+
+[0.0] process node graph search bottleneck experi tool reput perform instrument applic
+	System Chosen Intruder Word = bottleneck
+	True Intruder Word = reput
+
+[0.0] ocd detect fault_inject oper inject constraint approach fault propos toler quanta
+	System Chosen Intruder Word = fault_inject
+	True Intruder Word = quanta
+
+[0.0] assign attribut requir set geodes attribut_role role object access user attribut_user
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = geodes
+
+[0.0] point squar time edg blue set disk centerpoint comput shape algorithm
+	System Chosen Intruder Word = centerpoint
+	True Intruder Word = shape
+
+[0.0] minim rmp set data role problem elimin mine number mine_role algorithm
+	System Chosen Intruder Word = mine_role
+	True Intruder Word = elimin
+
+[1.0] site snp haplotyp genotyp chromosom data block frequenc metric number algorithm
+	System Chosen Intruder Word = metric
+	True Intruder Word = metric
+
+[0.0] control defin model assign access_model access_control statu polici access control_model elimin
+	System Chosen Intruder Word = access_model
+	True Intruder Word = elimin
+
+[0.0] typest method_role secur set role method object elimin analysi access applic
+	System Chosen Intruder Word = method_role
+	True Intruder Word = elimin
+
+[0.0] prefetch scheme structur thread data block core perform number cach size
+	System Chosen Intruder Word = thread
+	True Intruder Word = structur
+
+[1.0] pair conform rna trust subject measur load code fold attribut_role contact
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] point surfac attribut_role vertic connect gener comput box curv algorithm algebra
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] oblig resourc polici_privaci privaci shape rule request data polici access similar
+	System Chosen Intruder Word = polici_privaci
+	True Intruder Word = shape
+
+[0.0] process replai reput mpi record messag commun group srr applic size
+	System Chosen Intruder Word = srr
+	True Intruder Word = reput
+
+[0.0] estim integr tree scheme metric space markov structur sampl convex embed
+	System Chosen Intruder Word = convex
+	True Intruder Word = structur
+
+[0.0] error check matrix languag perform code quanta upc modul propos collect
+	System Chosen Intruder Word = upc
+	True Intruder Word = quanta
+
+[1.0] energi model time program predict attribut_role predictor schedul perform number execut
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] flow_inform list risk inform vm system model secur label flow polici
+	System Chosen Intruder Word = flow_inform
+	True Intruder Word = list
+
+[0.0] integr permit rule request combin polici xacml share evalu express deni
+	System Chosen Intruder Word = xacml
+	True Intruder Word = share
+
+[0.0] con abstract shape con_gurat vertic search pull layer gurat move algorithm
+	System Chosen Intruder Word = con_gurat
+	True Intruder Word = shape
+
+[0.0] invert metric prime point compon edg set hing dissect triangul triangl
+	System Chosen Intruder Word = dissect
+	True Intruder Word = metric
+
+[0.0] set event cell semant data object workflow type object_video surveil video
+	System Chosen Intruder Word = object_video
+	True Intruder Word = workflow
+
+[0.0] statement parallel program thread comput analysi place execut async workflow algorithm
+	System Chosen Intruder Word = async
+	True Intruder Word = workflow
+
+[1.0] selinux workflow system phone integr secur trust instal measur polici untrust
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] system deriv event gadget set subscrib rule infer path strip attribut_role
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] result benchmark structur gener chain set reput protein circuit averag similar
+	System Chosen Intruder Word = protein
+	True Intruder Word = reput
+
+[0.0] reconfigur reput configur time system architectur comput processor fpga applic river
+	System Chosen Intruder Word = river
+	True Intruder Word = reput
+
+[0.0] process gene pixel embryo method match imag express structur process_usag similar
+	System Chosen Intruder Word = process_usag
+	True Intruder Word = structur
+
+[0.0] author transfer deleg task satisfi constraint execut workflow list user instanc
+	System Chosen Intruder Word = workflow
+	True Intruder Word = list
+
+[0.0] result transistor specif charg current radiat command sourc bic output design
+	System Chosen Intruder Word = bic
+	True Intruder Word = command
+
+[0.0] expect point time set random comput conv hull convex algorithm elimin
+	System Chosen Intruder Word = conv
+	True Intruder Word = elimin
+
+[0.0] input time clock power circuit high output bufer skew mesh shape
+	System Chosen Intruder Word = bufer
+	True Intruder Word = shape
+
+[0.0] control system attribut updat reput subject ucon polici usag object access
+	System Chosen Intruder Word = ucon
+	True Intruder Word = reput
+
+[0.0] queue elimin order forward oper fast_forward program data cach fast stage
+	System Chosen Intruder Word = fast_forward
+	True Intruder Word = elimin
+
+[1.0] memori oper program thread variabl lock quanta execut race step critic
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] break model level attest behavior emerg glass quanta state polici uml
+	System Chosen Intruder Word = uml
+	True Intruder Word = quanta
+
+[1.0] time model system simul level test gener base attribut_role code case
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] scale system memori oper matrix comput perform number processor shape fpga
+	System Chosen Intruder Word = shape
+	True Intruder Word = shape
+
+[1.0] buffer traffic router latenc switch packet quanta flow channel network size
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] assign nmr structur protein align residu score protein_structur nvr reput rdc
+	System Chosen Intruder Word = protein_structur
+	True Intruder Word = reput
+
+[0.0] unit model organ busi adjust intens shape activ spread log probe
+	System Chosen Intruder Word = log
+	True Intruder Word = shape
+
+[0.0] point time edg vertic simplex comput elimin triangul triangl delaunai algorithm
+	System Chosen Intruder Word = delaunai
+	True Intruder Word = elimin
+
+[0.0] assign post level segment bsp reput densiti layer wait cut rout
+	System Chosen Intruder Word = bsp
+	True Intruder Word = reput
+
+[0.0] medial point ball axi voronoi structur diagram construct flow shape function
+	System Chosen Intruder Word = ball
+	True Intruder Word = structur
+
+[0.0] process pixel architectur block hardwar object imag agent video algorithm structur
+	System Chosen Intruder Word = agent
+	True Intruder Word = structur
+
+[1.0] softwar system model explor languag elimin java object embed design applic
+	System Chosen Intruder Word = elimin
+	True Intruder Word = elimin
+
+[1.0] sequenc align edit trie column number shape kernel cost algorithm gap
+	System Chosen Intruder Word = trie
+	True Intruder Word = trie
+
+[0.0] process oper messag base rdma commun read comput perform elimin receiv
+	System Chosen Intruder Word = rdma
+	True Intruder Word = elimin
+
+[1.0] degre graph edg vertic color vertex set grid number workflow cross
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] site model gene rate quanta sequenc align state hmm markov exon
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] process parallel instruct thread data zoid comput workflow perform processor gpu
+	System Chosen Intruder Word = zoid
+	True Intruder Word = workflow
+
+[0.0] interv rectangular list time graph order page tabl layout page_tabl elimin
+	System Chosen Intruder Word = page_tabl
+	True Intruder Word = list
+
+[1.0] point time hit workflow set cell comput problem log rectangl algorithm
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] constraint_smer set smer constraint_set attribut_role constraint cluster sso mean polici curv
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] inform control reput model locat share secur pattern base approach flow
+	System Chosen Intruder Word = flow
+	True Intruder Word = reput
+
+[0.0] solut constant minimum number problem implement approxim find algorithm instanc elimin
+	System Chosen Intruder Word = approxim
+	True Intruder Word = elimin
+
+[0.0] doubl squar quanta point pseudolin simpl set label activ doubl_pseudolin arrang
+	System Chosen Intruder Word = doubl_pseudolin
+	True Intruder Word = quanta
+
+[0.0] mpi node system commun comput perform implement processor share network algorithm
+	System Chosen Intruder Word = mpi
+	True Intruder Word = share
+
+[0.0] mpi parallel call barrier program set isp match shape analysi express
+	System Chosen Intruder Word = isp
+	True Intruder Word = shape
+
+[0.0] cascad level sequenc set bloom_filter score quanta bloom bloom_cascad filter trefoil
+	System Chosen Intruder Word = bloom_filter
+	True Intruder Word = quanta
+
+[0.0] point tree structur delet segment lscript workflow list spanner log io
+	System Chosen Intruder Word = lscript
+	True Intruder Word = workflow
+
+[1.0] process system model simul quanta distribut subsystem administr polici run studi
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] peer group_peer system metric deleg transact credibl trust group reput network
+	System Chosen Intruder Word = group_peer
+	True Intruder Word = metric
+
+[0.0] time set role_set request ua problem hierarchi local activ share algorithm
+	System Chosen Intruder Word = role_set
+	True Intruder Word = share
+
+[1.0] parallel memori program thread data attribut_role loop block execut access compil
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] process time model spe cellgen pixel command vector fill dma imag
+	System Chosen Intruder Word = cellgen
+	True Intruder Word = command
+
+[0.0] author system graph workflow respons gadget request pdp comput cach sdp
+	System Chosen Intruder Word = sdp
+	True Intruder Word = workflow
+
+[0.0] rip topolog point complex time list graph vertic comput homolog algorithm
+	System Chosen Intruder Word = rip
+	True Intruder Word = list
+
+[1.0] open nest thread attribut_role map data lock modul aspen kei handler
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] parallel call time gener program tile path trie schedul code logic
+	System Chosen Intruder Word = trie
+	True Intruder Word = trie
+
+[0.0] energi conform structur protein sequenc share comput mutat approxim bound function
+	System Chosen Intruder Word = conform
+	True Intruder Word = share
+
+[0.0] error capacitor architectur coefcient regist multipli implement calibr quanta filter sampl
+	System Chosen Intruder Word = coefcient
+	True Intruder Word = quanta
+
+[0.0] memori node system time page request access processor profil command alloc
+	System Chosen Intruder Word = node
+	True Intruder Word = command
+
+[1.0] input list voltag current circuit power frequenc signal output design filter
+	System Chosen Intruder Word = list
+	True Intruder Word = list
+
+[0.0] model search seed set align quanta seed_set comput match design similar
+	System Chosen Intruder Word = seed_set
+	True Intruder Word = quanta
+
+[0.0] author shape model time leav state join object access group user
+	System Chosen Intruder Word = user
+	True Intruder Word = shape
+
+[0.0] entitl subgraph protein set sequenc classif train svm metric method algorithm
+	System Chosen Intruder Word = entitl
+	True Intruder Word = metric
+
+[0.0] bit scheme delai architectur montgomeri router data list cycl insert synchron
+	System Chosen Intruder Word = montgomeri
+	True Intruder Word = list
+
+[1.0] queue time confid predict disk job number method workflow wait user
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] energi structur conform protein sequenc comput approxim mutat set_work fold function
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[1.0] detect memori time page test oper tabl data metric fault propos
+	System Chosen Intruder Word = metric
+	True Intruder Word = metric
+
+[1.0] attribut reason capacitor workflow gener subject constraint violat calibr modul logic
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] bit parallel memori byte workflow tabl prefix data utf code algorithm
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] site transcript futur gene model sequenc regul conserv bind motif bind_site
+	System Chosen Intruder Word = bind_site
+	True Intruder Word = futur
+
+[1.0] process energi model time system simul level attribut_role instruct fill analysi
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] solut point cover set comput structur problem approxim bound algorithm size
+	System Chosen Intruder Word = bound
+	True Intruder Word = structur
+
+[1.0] author attribut_user time assign deleg task constraint execut workflow user instanc
+	System Chosen Intruder Word = attribut_user
+	True Intruder Word = attribut_user
+
+[0.0] subgraph complex model graph quanta pair protein data interact interact_protein function
+	System Chosen Intruder Word = interact_protein
+	True Intruder Word = quanta
+
+[1.0] control resourc model secur quanta pattern rdf label polici object tripl
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] system resourc share structur attribut collabor subject polici usag access similar
+	System Chosen Intruder Word = collabor
+	True Intruder Word = structur
+
+[1.0] author time graph respons request pdp comput cach attribut_role spanner sdp
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] cascad oper messag metric bloom_filter rdma commun read comput bloom filter
+	System Chosen Intruder Word = bloom_filter
+	True Intruder Word = metric
+
+[0.0] prefetch program tile shape thread data hta core match hta_tile algorithm
+	System Chosen Intruder Word = hta_tile
+	True Intruder Word = shape
+
+[1.0] assign set role_set role hierarchi problem activ user rbac attribut_role algorithm
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] transact commit oper workflow nest lock write read conflict object abort
+	System Chosen Intruder Word = nest
+	True Intruder Word = workflow
+
+[1.0] snp allel haplotyp genotyp set quanta data recombin block number algorithm
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[1.0] parallel memori instruct thread data comput perform execut gpu algorithm workflow
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] buffer traffic router layout latenc switch packet flow metric network size
+	System Chosen Intruder Word = metric
+	True Intruder Word = metric
+
+[0.0] control defin model workflow base owl role constraint class access rbac
+	System Chosen Intruder Word = owl
+	True Intruder Word = workflow
+
+[1.0] memori attribut_role system base perform number implement processor applic design size
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] selinux system integr secur trust subject metric data measur polici code
+	System Chosen Intruder Word = selinux
+	True Intruder Word = metric
+
+[0.0] prime rip point set intersect shape line number vextendsingl curv cross
+	System Chosen Intruder Word = vextendsingl
+	True Intruder Word = shape
+
+[1.0] work call parallel program thread path workflow context execut serial logic
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] work parallel steal time quanta quantum shape job schedul processor job_schedul
+	System Chosen Intruder Word = job_schedul
+	True Intruder Word = shape
+
+[1.0] point graph edg vertic connect tree vertex set comput triangl send
+	System Chosen Intruder Word = send
+	True Intruder Word = send
+
+[0.0] model simul gener fbar vector shape coreset visibl paramet polytop extract
+	System Chosen Intruder Word = coreset
+	True Intruder Word = shape
+
+[1.0] author model secur leav join object polici group metric access user
+	System Chosen Intruder Word = metric
+	True Intruder Word = metric
+
+[1.0] control attribut_user author inform system secur request access_control polici access user
+	System Chosen Intruder Word = attribut_user
+	True Intruder Word = attribut_user
+
+[0.0] scale node system time workflow simul host zoid comput commun network
+	System Chosen Intruder Word = zoid
+	True Intruder Word = workflow
+
+[1.0] process model set box attribut_role object type imag object_video video algorithm
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] queue order forward local_polici boolean local evalu fast stage attribut_role algorithm
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] inform system attribut_user secur level integr file access user mesh kei
+	System Chosen Intruder Word = attribut_user
+	True Intruder Word = attribut_user
+
+[0.0] node paus oper rule context share xml object insert applic collect
+	System Chosen Intruder Word = paus
+	True Intruder Word = share
+
+[1.0] parallel node barrier program concurr variabl thread set_work analysi execut step
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[0.0] memori matrix list block comput perform cach factor processor algorithm size
+	System Chosen Intruder Word = matrix
+	True Intruder Word = list
+
+[0.0] system time fact consist event set shape infer rule polici user
+	System Chosen Intruder Word = infer
+	True Intruder Word = shape
+
+[1.0] risk entitl model time covert set data frequenc phase attribut_user flow_risk
+	System Chosen Intruder Word = attribut_user
+	True Intruder Word = attribut_user
+
+[0.0] topolog metric graph edg vertic vertex set intersect grid number cross
+	System Chosen Intruder Word = grid
+	True Intruder Word = metric
+
+[1.0] stream voronoi oper gener set set_work manifold map obj box flow
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[0.0] topolog point complex share ball axi set comput persist diagram function
+	System Chosen Intruder Word = ball
+	True Intruder Word = share
+
+[0.0] process shape replai mpi record memori data commun group applic size
+	System Chosen Intruder Word = replai
+	True Intruder Word = shape
+
+[1.0] graph graph_role set_work domain administr administr_role repeat group privileg privileg_role algorithm
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[0.0] assign attribut requir set attribut_role role object access structur user attribut_user
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = structur
+
+[0.0] work polen le send set_work set wsbac cell devic network river
+	System Chosen Intruder Word = set_work
+	True Intruder Word = send
+
+[1.0] point surfac vertic connect cell comput box curv algorithm algebra attribut_user
+	System Chosen Intruder Word = attribut_user
+	True Intruder Word = attribut_user
+
+[1.0] point time seed graph edg enumer simplex set triangul algorithm cross
+	System Chosen Intruder Word = seed
+	True Intruder Word = seed
+
+[0.0] region open memori share page program access execut profil alloc affin
+	System Chosen Intruder Word = affin
+	True Intruder Word = share
+
+[0.0] site prime list point disk intersect path comput diagram case curv
+	System Chosen Intruder Word = prime
+	True Intruder Word = list
+
+[1.0] parallel node quanta tree set trace data comput mine synchron algorithm
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[1.0] point result surfac set distanc comput quanta approxim sampl function algorithm
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] parallel ehr order task depend densiti thread data line seed algorithm
+	System Chosen Intruder Word = ehr
+	True Intruder Word = seed
+
+[1.0] prime inform system secur shape set decis trace request properti princip
+	System Chosen Intruder Word = shape
+	True Intruder Word = shape
+
+[1.0] model updat enforc behavior state action ucon usag polici attribut_role access
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] genu surfac pseudolin graph edg cycl planar send comput embed algorithm
+	System Chosen Intruder Word = genu
+	True Intruder Word = send
+
+[1.0] model gene probabl sequenc genom align attribut_role state length score posit
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] point connect clock gadget path strip bufer network skew metric mesh
+	System Chosen Intruder Word = bufer
+	True Intruder Word = metric
+
+[0.0] memori locat transact commit set stm lock write quanta read abort
+	System Chosen Intruder Word = stm
+	True Intruder Word = quanta
+
+[1.0] point time set cell random comput net log algorithm attribut_role size
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[0.0] invert histori time futur event send set statu local agent iblp
+	System Chosen Intruder Word = iblp
+	True Intruder Word = send
+
+[1.0] integr rule set_work permit request combin polici xacml evalu express deni
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[0.0] result bit multipl benchmark trust circuit quanta multipli comput horizont design
+	System Chosen Intruder Word = trust
+	True Intruder Word = quanta
+
+[1.0] parallel time test program thread workflow loop comput commun perform coverag
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] sequenc set vector edit cluster train svm method set_work kernel algorithm
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[1.0] transistor input voltag current circuit power workflow signal output low design
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] queri point structur rang set cell report space quanta log bound
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[1.0] node stream system memori failur thread checkpoint comput attribut_user applic recoveri
+	System Chosen Intruder Word = attribut_user
+	True Intruder Word = attribut_user
+
+[1.0] assign model time deleg assign_role attribut_user role hierarchi user deleg_role delegate
+	System Chosen Intruder Word = attribut_user
+	True Intruder Word = attribut_user
+
+[0.0] control alloi list model trust access_model base access_control access uml control_model
+	System Chosen Intruder Word = access_model
+	True Intruder Word = list
+
+[0.0] heap workflow memori system tree ownership page request access xmodul modul
+	System Chosen Intruder Word = xmodul
+	True Intruder Word = workflow
+
+[0.0] point queri time updat detect structur delet segment log io dynam
+	System Chosen Intruder Word = io
+	True Intruder Word = detect
+
+[1.0] node shape model messag commun comput perform implement network algorithm collect
+	System Chosen Intruder Word = shape
+	True Intruder Word = shape
+
+[1.0] time scheme servic quanta state server implement local access logic kei
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[0.0] assign futur set permiss assign_role role mine user role_user rbac algorithm
+	System Chosen Intruder Word = assign_role
+	True Intruder Word = futur
+
+[0.0] constant oper pixel coefcient number implement approxim agent filter tree algorithm
+	System Chosen Intruder Word = coefcient
+	True Intruder Word = tree
+
+[0.0] tole memori oper program thread shape lock execut race_tole race critic
+	System Chosen Intruder Word = race_tole
+	True Intruder Word = shape
+
+[0.0] con point time vertic quanta vertex comput triangul delaunai move algorithm
+	System Chosen Intruder Word = con
+	True Intruder Word = quanta
+
+[0.0] process graph simul search experi perform run user applic databas futur
+	System Chosen Intruder Word = graph
+	True Intruder Word = futur
+
+[0.0] mpi call send messag distribut code object type place async workflow
+	System Chosen Intruder Word = mpi
+	True Intruder Word = workflow
+
+[1.0] parallel memori oper shape program data comput perform implement code processor
+	System Chosen Intruder Word = shape
+	True Intruder Word = shape
+
+[1.0] process resourc misconfigur attach isp rule permit domain quanta label applic
+	System Chosen Intruder Word = quanta
+	True Intruder Word = quanta
+
+[1.0] flow_inform attribut_role inform vm system secur level flow_polici label flow polici
+	System Chosen Intruder Word = attribut_role
+	True Intruder Word = attribut_role
+
+[1.0] time pattern set_work architectur pixel search pro block filter sampl algorithm
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[0.0] lattic polyhedra metric equival matrix column polytop polyhedron affin represent function
+	System Chosen Intruder Word = column
+	True Intruder Word = metric
+
+[0.0] model test protein variabl data distribut detect score valu network function
+	System Chosen Intruder Word = score
+	True Intruder Word = detect
+
+[0.0] model assign workflow error predict paramet perform measur nvr rdc network
+	System Chosen Intruder Word = nvr
+	True Intruder Word = workflow
+
+[0.0] point detect graph edg gener pin laman rigid hing conv framework
+	System Chosen Intruder Word = conv
+	True Intruder Word = detect
+
+[1.0] reconfigur configur time system architectur comput hardwar workflow processor fpga modul
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] structur protein sequenc align residu score domain workflow protein_structur databas trefoil
+	System Chosen Intruder Word = protein_structur
+	True Intruder Word = workflow
+
+[0.0] peer resourc trust privaci traust request server polici group provid shape
+	System Chosen Intruder Word = traust
+	True Intruder Word = shape
+
+[0.0] model memori transfer spe program task cell runtim data metric compil
+	System Chosen Intruder Word = spe
+	True Intruder Word = metric
+
+[0.0] gene model level data method match express log send similar express_gene
+	System Chosen Intruder Word = express_gene
+	True Intruder Word = send
+
+[0.0] polygon point metric rai segment set partit path line boundari convex
+	System Chosen Intruder Word = rai
+	True Intruder Word = metric
+
+[1.0] seed set comput server flow match reduct modul design aspen attribut_user
+	System Chosen Intruder Word = attribut_user
+	True Intruder Word = attribut_user
+
+[1.0] condit node specif post set_work test program lock list implement wait
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[1.0] time system node thread cpu schedul number round set_work processor applic
+	System Chosen Intruder Word = set_work
+	True Intruder Word = set_work
+
+[1.0] tree metric segment sequenc hyperbol align comput shape space workflow algorithm
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] author system structur specif secur test set constraint role polici user
+	System Chosen Intruder Word = constraint
+	True Intruder Word = structur
+
+[0.0] parallel specul task program depend thread metric loop code execut compil
+	System Chosen Intruder Word = compil
+	True Intruder Word = metric
+
+[1.0] polygon site point time edg set path workflow comput diagram algorithm
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[1.0] control subgraph system attribut updat subject request polici usag xacml access
+	System Chosen Intruder Word = subgraph
+	True Intruder Word = subgraph
+
+[1.0] memori hull instruct data block comput perform implement cach processor algorithm
+	System Chosen Intruder Word = hull
+	True Intruder Word = hull
+
+[0.0] point graph plane famili set intersect layout race number curv bound
+	System Chosen Intruder Word = layout
+	True Intruder Word = race
+
+[1.0] memori system transact commit nest write read conflict access allel abort
+	System Chosen Intruder Word = allel
+	True Intruder Word = allel
+
+[1.0] control stream compil integr consist oper data polici view object access
+	System Chosen Intruder Word = compil
+	True Intruder Word = compil
+
+[1.0] parallel specul task program depend thread workflow loop data perform execut
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] time system memori famili thread request cpu schedul round number alloc
+	System Chosen Intruder Word = round
+	True Intruder Word = famili
+
+[1.0] oblig resourc privaci hull set rule data comput polici access similar
+	System Chosen Intruder Word = hull
+	True Intruder Word = hull
+
+[0.0] point time edg vertic set path subgraph comput curv triangl algorithm
+	System Chosen Intruder Word = triangl
+	True Intruder Word = subgraph
+
+[1.0] energi structur conform protein sequenc hull set domain comput method fold
+	System Chosen Intruder Word = hull
+	True Intruder Word = hull
+
+[0.0] process seed replai parallel mpi program data commun group applic aspen
+	System Chosen Intruder Word = replai
+	True Intruder Word = seed
+
+[0.0] model prefetch scheme program thread structur data base perform core network
+	System Chosen Intruder Word = thread
+	True Intruder Word = structur
+
+[0.0] model system level segment event set bsp hull rule problem imag
+	System Chosen Intruder Word = bsp
+	True Intruder Word = hull
+
+[0.0] mpi system integr program allel subject trust measur code polici type
+	System Chosen Intruder Word = mpi
+	True Intruder Word = allel
+
+[0.0] memori transact set transistor stm lock write base read implement perform
+	System Chosen Intruder Word = stm
+	True Intruder Word = transistor
+
+[1.0] point time workflow cover set comput problem log bound algorithm size
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] peer inform alloc system share secur trust base polici flow group
+	System Chosen Intruder Word = flow
+	True Intruder Word = alloc
+
+[0.0] parallel steal time quantum workflow traust predict job schedul number processor
+	System Chosen Intruder Word = traust
+	True Intruder Word = workflow
+
+[0.0] transistor input voltag current circuit power frequenc signal output design comput
+	System Chosen Intruder Word = circuit
+	True Intruder Word = comput
+
+[0.0] control author system secur trust request access_control polici access user structur
+	System Chosen Intruder Word = access_control
+	True Intruder Word = structur
+
+[1.0] reconfigur seed result time memori system configur page data fault fpga
+	System Chosen Intruder Word = seed
+	True Intruder Word = seed
+
+[0.0] prime point result subgraph set distanc comput approxim space sampl algorithm
+	System Chosen Intruder Word = prime
+	True Intruder Word = subgraph
+
+[0.0] point time edg set comput triangul problem hull delaunai alloc algorithm
+	System Chosen Intruder Word = hull
+	True Intruder Word = alloc
+
+[0.0] model assign deleg structur task role constraint user workflow privileg deleg_role
+	System Chosen Intruder Word = deleg_role
+	True Intruder Word = structur
+
+[1.0] model document hull secur leav join object polici access group user
+	System Chosen Intruder Word = hull
+	True Intruder Word = hull
+
+[0.0] result parallel oper matrix comput block perform implement structur processor algorithm
+	System Chosen Intruder Word = matrix
+	True Intruder Word = structur
+
+[0.0] process mpi oper share messag task rdma comput read perform algorithm
+	System Chosen Intruder Word = mpi
+	True Intruder Word = share
+
+[1.0] system secur allel set rdf bloom polici administr access logic filter
+	System Chosen Intruder Word = allel
+	True Intruder Word = allel
+
+[1.0] risk bit seed inform parallel test byte set data flow polici
+	System Chosen Intruder Word = seed
+	True Intruder Word = seed
+
+[0.0] model seed set sequenc align grid share match design mesh trefoil
+	System Chosen Intruder Word = trefoil
+	True Intruder Word = share
+
+[0.0] control model consist system specif formal secur constraint role object access
+	System Chosen Intruder Word = constraint
+	True Intruder Word = consist
+
+[0.0] prime point gadget set segment intersect line comput case workflow algorithm
+	System Chosen Intruder Word = gadget
+	True Intruder Word = workflow
+
+[1.0] gene model protein sequenc data compil interact express bind motif function
+	System Chosen Intruder Word = compil
+	True Intruder Word = compil
+
+[1.0] parallel barrier node program comput analysi allel execut place async synchron
+	System Chosen Intruder Word = allel
+	True Intruder Word = allel
+
+[0.0] parallel memori optim program thread data comput perform local compil consist
+	System Chosen Intruder Word = thread
+	True Intruder Word = consist
+
+[0.0] assign structur protein sequenc align densiti share comput number shape algorithm
+	System Chosen Intruder Word = densiti
+	True Intruder Word = share
+
+[1.0] coordin result search set vector persist diagram polyhedron function seed affin
+	System Chosen Intruder Word = seed
+	True Intruder Word = seed
+
+[0.0] buffer bit time delai architectur router consist data power packet design
+	System Chosen Intruder Word = buffer
+	True Intruder Word = consist
+
+[1.0] subgraph graph edg vertic color vertex set planar algorithm seed cross
+	System Chosen Intruder Word = seed
+	True Intruder Word = seed
+
+[0.0] control author model attribut access_control shape role polici object access user
+	System Chosen Intruder Word = access_control
+	True Intruder Word = shape
+
+[0.0] model probabl sequenc genom align state score length hmm allel posit
+	System Chosen Intruder Word = score
+	True Intruder Word = allel
+
+[0.0] assign set role_set assign_role permiss role problem subgraph user role_user rbac
+	System Chosen Intruder Word = role_set
+	True Intruder Word = subgraph
+
+[1.0] node shape system time simul comput commun perform number processor applic
+	System Chosen Intruder Word = shape
+	True Intruder Word = shape
+
+[1.0] work gener oper set block implement compil number filter algorithm kei
+	System Chosen Intruder Word = compil
+	True Intruder Word = compil
+
+[0.0] time level structur prioriti breakpoint block comput statu case polytop size
+	System Chosen Intruder Word = polytop
+	True Intruder Word = structur
+
+[1.0] queri point node structur rang workflow data type place space log
+	System Chosen Intruder Word = workflow
+	True Intruder Word = workflow
+
+[0.0] snp allel haplotyp genotyp set data block shape number problem algorithm
+	System Chosen Intruder Word = algorithm
+	True Intruder Word = shape
+
+[0.0] memori oper program concurr thread lock method object execut famili race
+	System Chosen Intruder Word = concurr
+	True Intruder Word = famili
+
+[0.0] parallel page program allel tile partit data hta code space arrai
+	System Chosen Intruder Word = hta
+	True Intruder Word = allel
+
+[0.0] model assign deleg intens revoc domain role administr user privileg delegate
+	System Chosen Intruder Word = delegate
+	True Intruder Word = intens
+
+[0.0] system deriv event subscrib rule cog infer chromosom true buffer team
+	System Chosen Intruder Word = cog
+	True Intruder Word = buffer
+
+[0.0] break oblig model pep rfid level tag emerg glass live uml
+	System Chosen Intruder Word = uml
+	True Intruder Word = live
+
+[1.0] overlap oper messag classif remot commun rdma comput cluster perform applic
+	System Chosen Intruder Word = classif
+	True Intruder Word = classif
+
+[0.0] memori system model tree ownership nest mod type xmodul detect modul
+	System Chosen Intruder Word = xmodul
+	True Intruder Word = detect
+
+[0.0] weight search seed vector set lscript align equat match design similar
+	System Chosen Intruder Word = lscript
+	True Intruder Word = equat
+
+[1.0] sql tabl method web attack view user interv databas applic kei
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[0.0] queri integr structur rang cell report cach construct space log oblivi
+	System Chosen Intruder Word = oblivi
+	True Intruder Word = integr
+
+[0.0] condit oblig resourc privaci request feder assert purpos prefer live provid
+	System Chosen Intruder Word = privaci
+	True Intruder Word = live
+
+[1.0] multipl sequenc entri align length column shape space buffer row gap
+	System Chosen Intruder Word = buffer
+	True Intruder Word = buffer
+
+[1.0] memori system equat store oper address architectur data hardwar processor execut
+	System Chosen Intruder Word = equat
+	True Intruder Word = equat
+
+[0.0] point plane line integr comput number properti case posit bound geometri
+	System Chosen Intruder Word = bound
+	True Intruder Word = integr
+
+[0.0] process mpi call send messag isp commun checkpoint receiv match integr
+	System Chosen Intruder Word = mpi
+	True Intruder Word = integr
+
+[0.0] distort list tree metric distanc space markov zigzag embed convex function
+	System Chosen Intruder Word = zigzag
+	True Intruder Word = list
+
+[0.0] open atom transistor transact nest map lock method conflict kei handler
+	System Chosen Intruder Word = nest
+	True Intruder Word = transistor
+
+[0.0] sensor process buffer vertic pixel color quantiz line object imag agent
+	System Chosen Intruder Word = agent
+	True Intruder Word = buffer
+
+[1.0] softwar assign concept attribut requir pair set role object user equat
+	System Chosen Intruder Word = equat
+	True Intruder Word = equat
+
+[0.0] detect crc error check test fault modul coverag propos toler transistor
+	System Chosen Intruder Word = crc
+	True Intruder Word = transistor
+
+[0.0] model probabl tion sequenc set arrai distribut paramet method ing posit
+	System Chosen Intruder Word = tion
+	True Intruder Word = arrai
+
+[0.0] genu surfac graph vertic hyperbol detect cycl planar comput cut boundari
+	System Chosen Intruder Word = genu
+	True Intruder Word = detect
+
+[1.0] lattic polyhedra equival repres union layer reput polyhedron affin represent function
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] medial scale ball axi live fill densiti layer featur shape rout
+	System Chosen Intruder Word = medial
+	True Intruder Word = live
+
+[0.0] doubl coordin pseudolin index live famili isomorph cell class cocycl arrang
+	System Chosen Intruder Word = pseudolin
+	True Intruder Word = live
+
+[0.0] author share resourc vol collabor decis request origin particip interv redirect
+	System Chosen Intruder Word = vol
+	True Intruder Word = interv
+
+[0.0] region cover hit set rang buffer cell approxim net rectangl size
+	System Chosen Intruder Word = rectangl
+	True Intruder Word = buffer
+
+[0.0] linear acceler matrix block comput geometr perform implement factor choleski algorithm
+	System Chosen Intruder Word = block
+	True Intruder Word = geometr
+
+[1.0] model regress predictor predict vector train reput learn svm perform network
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] independ level famili set detect pseudo intersect object curv net size
+	System Chosen Intruder Word = intersect
+	True Intruder Word = detect
+
+[0.0] memori transfer spe level task cell runtim dma interv data compil
+	System Chosen Intruder Word = spe
+	True Intruder Word = interv
+
+[0.0] integr permit request combin pca detect boolean xacml evalu express deni
+	System Chosen Intruder Word = xacml
+	True Intruder Word = detect
+
+[0.0] min assign simul test comput sum measur valu sampl detect statist
+	System Chosen Intruder Word = min
+	True Intruder Word = detect
+
+[0.0] alloi list model specif formal state constraint role conflict rbac function
+	System Chosen Intruder Word = rbac
+	True Intruder Word = list
+
+[0.0] entitl embryo learn method geometr match provis anlag imag sampl similar
+	System Chosen Intruder Word = anlag
+	True Intruder Word = geometr
+
+[0.0] region site gene genom align live state speci mous human exon
+	System Chosen Intruder Word = align
+	True Intruder Word = live
+
+[0.0] polygon rai interior intens chain segment partit disjoint line boundari convex
+	System Chosen Intruder Word = rai
+	True Intruder Word = intens
+
+[0.0] surfac complex voronoi gener manifold integr interfac distanc flow construct critic
+	System Chosen Intruder Word = voronoi
+	True Intruder Word = integr
+
+[0.0] erent cient nite intens rst speci state hmm nition cation ned
+	System Chosen Intruder Word = hmm
+	True Intruder Word = intens
+
+[0.0] hierarch free reput configur fbar paramet measur tune tini extract shift
+	System Chosen Intruder Word = fbar
+	True Intruder Word = reput
+
+[0.0] edit base adjust svm intens bia kernel transistor accuraci log probe
+	System Chosen Intruder Word = log
+	True Intruder Word = transistor
+
+[0.0] energi complex detect conform pair protein pathwai comput interact mutat function
+	System Chosen Intruder Word = conform
+	True Intruder Word = detect
+
+[0.0] result present test tabl integr combin approach method show analysi function
+	System Chosen Intruder Word = tabl
+	True Intruder Word = integr
+
+[0.0] system explor languag server flow modul integr applic embed aspen instanc
+	System Chosen Intruder Word = aspen
+	True Intruder Word = integr
+
+[1.0] author deleg duti task satisfi transistor constraint execut workflow user instanc
+	System Chosen Intruder Word = transistor
+	True Intruder Word = transistor
+
+[0.0] assign arrowtripleleft level permit request action asac statu agent iblp list
+	System Chosen Intruder Word = arrowtripleleft
+	True Intruder Word = list
+
+[1.0] process transform geometr model program variabl link write read step function
+	System Chosen Intruder Word = geometr
+	True Intruder Word = geometr
+
+[0.0] constant oper live gener coefcient circuit block implement number approxim filter
+	System Chosen Intruder Word = coefcient
+	True Intruder Word = live
+
+[0.0] control assign set permiss relat list role hierarchi activ user rbac
+	System Chosen Intruder Word = rbac
+	True Intruder Word = list
+
+[1.0] reconfigur configur system time architectur comput hardwar list implement fpga applic
+	System Chosen Intruder Word = list
+	True Intruder Word = list
+
+[0.0] work steal parallel quanta time quantum job schedul effici intens processor
+	System Chosen Intruder Word = steal
+	True Intruder Word = intens
+
+[0.0] terrain contour linear height level interv edg vertic map triangl river
+	System Chosen Intruder Word = triangl
+	True Intruder Word = interv
+
+[0.0] tole safe memori integr node page variabl lock checkpoint race critic
+	System Chosen Intruder Word = tole
+	True Intruder Word = integr
+
+[0.0] point input edg simplex live vertic vertex comput triangul dimens delaunai
+	System Chosen Intruder Word = delaunai
+	True Intruder Word = live
+
+[1.0] subgraph graph edg vertic connect order vertex path number cross integr
+	System Chosen Intruder Word = integr
+	True Intruder Word = integr
+
+[0.0] authent resourc file command map grid user integr ssh mesh kei
+	System Chosen Intruder Word = mesh
+	True Intruder Word = integr
+
+[0.0] parallel memori optim tile loop data code access arrai gpu buffer
+	System Chosen Intruder Word = tile
+	True Intruder Word = buffer
+
+[0.0] oblig model attribut updat enforc subject behavior action ucon usag list
+	System Chosen Intruder Word = ucon
+	True Intruder Word = list
+
+[1.0] call model level program comput perform implement code buffer run version
+	System Chosen Intruder Word = buffer
+	True Intruder Word = buffer
+
+[0.0] author resourc ontolog subject semant reput owl action class properti object
+	System Chosen Intruder Word = owl
+	True Intruder Word = reput
+
+[0.0] parallel spawn specul futur tl task depend loop execut profil list
+	System Chosen Intruder Word = tl
+	True Intruder Word = list
+
+[0.0] mpi oper int interfac scan type reduct net user function interv
+	System Chosen Intruder Word = int
+	True Intruder Word = interv
+
+[0.0] point surfac integr scheme comput approxim bardbl sampl mesh function live
+	System Chosen Intruder Word = bardbl
+	True Intruder Word = live
+
+[0.0] topolog rip geometr interv complex map persist diagram homolog space modul
+	System Chosen Intruder Word = rip
+	True Intruder Word = geometr
+
+[0.0] acquir call bit releas intens tree concurr lock list implement add
+	System Chosen Intruder Word = concurr
+	True Intruder Word = intens
+
+[0.0] control defin grant oper paper definit read object list access protect
+	System Chosen Intruder Word = paper
+	True Intruder Word = list
+
+[0.0] queri author node patient ehr updat composit smer buffer xml insert
+	System Chosen Intruder Word = smer
+	True Intruder Word = buffer
+
+[0.0] system node resourc simul comput detect cluster grid perform run applic
+	System Chosen Intruder Word = cluster
+	True Intruder Word = detect
+
+[1.0] transistor error capacit refer capacitor variat voltag paramet geometr circuit temperatur
+	System Chosen Intruder Word = geometr
+	True Intruder Word = geometr
+
+[0.0] member machin document membership leav mine join object group frequent detect
+	System Chosen Intruder Word = mine
+	True Intruder Word = detect
+
+[0.0] work list queue polen system le set wsbac devic user network
+	System Chosen Intruder Word = wsbac
+	True Intruder Word = list
+
+[0.0] dual face facet vertic list color blue incid conv polytop hull
+	System Chosen Intruder Word = conv
+	True Intruder Word = list
+
+[0.0] acp interv stream oper sec aurora obj box view join posit
+	System Chosen Intruder Word = obj
+	True Intruder Word = interv
+
+[0.0] order task depend densiti write line live schedul read arrai algorithm
+	System Chosen Intruder Word = densiti
+	True Intruder Word = live
+
+[0.0] process selinux system buffer integr trust subject instal measur polici code
+	System Chosen Intruder Word = selinux
+	True Intruder Word = buffer
+
+[0.0] barrier paus transistor program concurr thread mark object match garbag trefoil
+	System Chosen Intruder Word = trefoil
+	True Intruder Word = transistor
+
+[0.0] member model locat session context base role constraint user applic interv
+	System Chosen Intruder Word = session
+	True Intruder Word = interv
+
+[0.0] process assembl bruijn clump genom lscript integr homogen repeat size rep
+	System Chosen Intruder Word = lscript
+	True Intruder Word = integr
+
+[0.0] confid correct predict misconfigur data resolv method high user reput techniqu
+	System Chosen Intruder Word = misconfigur
+	True Intruder Word = reput
+
+[0.0] center unit cover ball segment disk detect lscript distanc epsilon bound
+	System Chosen Intruder Word = lscript
+	True Intruder Word = detect
+
+[0.0] risk inform buffer vm system secur level label flow polici chines
+	System Chosen Intruder Word = label
+	True Intruder Word = buffer
+
+[0.0] parallel percol tl post specul loop wait iter live move synchron
+	System Chosen Intruder Word = tl
+	True Intruder Word = live
+
+[1.0] prefetch instruct scheme data block core perform cach reput miss size
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[1.0] process bit parallel transform stream scope byte sequenc block reput utf
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] point connect gadget event path cluster manhattan strip spanner live network
+	System Chosen Intruder Word = spanner
+	True Intruder Word = live
+
+[0.0] minim miner organ busi permiss approach detect mine number user cost
+	System Chosen Intruder Word = permiss
+	True Intruder Word = detect
+
+[1.0] inform transistor author system secur requir enforc manag base comput user
+	System Chosen Intruder Word = transistor
+	True Intruder Word = transistor
+
+[0.0] atom parallel node trace geometr program conflict analysi execut activ ancestor
+	System Chosen Intruder Word = node
+	True Intruder Word = geometr
+
+[1.0] allel haplotyp marker variabl locu reput recombin data block loci pedigre
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] parallel oper tile partit matrix integr distribut hta line implement arrai
+	System Chosen Intruder Word = hta
+	True Intruder Word = integr
+
+[1.0] process result node buffer graph search page perform load profil alloc
+	System Chosen Intruder Word = buffer
+	True Intruder Word = buffer
+
+[0.0] node send blue detect zoid commun comput subsystem implement perform collect
+	System Chosen Intruder Word = zoid
+	True Intruder Word = detect
+
+[0.0] sensor presenc decod time probabl trust infer engin footprint intens room
+	System Chosen Intruder Word = footprint
+	True Intruder Word = intens
+
+[0.0] control architectur live router latenc cell strategi switch packet channel synchron
+	System Chosen Intruder Word = cell
+	True Intruder Word = live
+
+[0.0] con ict rule domain interpret live defln group flip network flrewal
+	System Chosen Intruder Word = defln
+	True Intruder Word = live
+
+[0.0] inform atom scale locat share mission blue meet forc genel geometr
+	System Chosen Intruder Word = genel
+	True Intruder Word = geometr
+
+[0.0] assign symbol backward variabl state paramet administr reachabl cid integr bgr
+	System Chosen Intruder Word = cid
+	True Intruder Word = integr
+
+[0.0] node assign time geometr tree edg scheme root deriv path kei
+	System Chosen Intruder Word = assign
+	True Intruder Word = geometr
+
+[0.0] process resourc node attach domain distribut label intens clipboard boundari applic
+	System Chosen Intruder Word = clipboard
+	True Intruder Word = intens
+
+[0.0] site medial observ voronoi trace set refin interact diagram uml transistor
+	System Chosen Intruder Word = medial
+	True Intruder Word = transistor
+
+[0.0] selinux reput oper set file class method object prometheu ml serial
+	System Chosen Intruder Word = ml
+	True Intruder Word = reput
+
+[0.0] peer system credenti transact trust manag horizont group reput buffer network
+	System Chosen Intruder Word = horizont
+	True Intruder Word = buffer
+
+[0.0] acid blast score map target comput measur valu posit similar detect
+	System Chosen Intruder Word = score
+	True Intruder Word = detect
+
+[0.0] squar scale trapezoid optim extrus rang maximum classi intens label activ
+	System Chosen Intruder Word = classi
+	True Intruder Word = intens
+
+[1.0] result present system area integr current power perform high design arrai
+	System Chosen Intruder Word = arrai
+	True Intruder Word = arrai
+
+[1.0] parallel time overhead interv commun schedul approach load effici processor execut
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[0.0] bit memori tabl trie prefix multi reput classif core tic packet
+	System Chosen Intruder Word = tic
+	True Intruder Word = reput
+
+[0.0] statement secur pattern entiti map rdf entail label violat tripl integr
+	System Chosen Intruder Word = rdf
+	True Intruder Word = integr
+
+[0.0] prime degre defin equat side segment layout primeprim line transistor vextendsingl
+	System Chosen Intruder Word = primeprim
+	True Intruder Word = transistor
+
+[0.0] attribut set subject rule request approach list languag polici evalu deni
+	System Chosen Intruder Word = evalu
+	True Intruder Word = list
+
+[0.0] energi consumpt live time model system node simul task schedul execut
+	System Chosen Intruder Word = node
+	True Intruder Word = live
+
+[0.0] bicliqu enumer pair reput conform structur rna base approxim fold contact
+	System Chosen Intruder Word = bicliqu
+	True Intruder Word = reput
+
+[0.0] author cascad level live set event bloom object type filter video
+	System Chosen Intruder Word = cascad
+	True Intruder Word = live
+
+[0.0] resourc negoti client trust traust servic request list server local access
+	System Chosen Intruder Word = traust
+	True Intruder Word = list
+
+[0.0] topolog graph edg vertic vertex intersect grid equat number geometr cross
+	System Chosen Intruder Word = grid
+	True Intruder Word = equat
+
+[0.0] valid inform integr level requir order pattern structur list item data
+	System Chosen Intruder Word = item
+	True Intruder Word = list
+
+[0.0] topolog detect degre surfac vertic cell comput box curv polynomi algebra
+	System Chosen Intruder Word = box
+	True Intruder Word = detect
+
+[0.0] assign structur famili protein transistor residu align method nvr rdc databas
+	System Chosen Intruder Word = nvr
+	True Intruder Word = transistor
+
+[0.0] stream graph orient optim color srf reput kernel cost elimin live
+	System Chosen Intruder Word = srf
+	True Intruder Word = reput
+
+[0.0] weight instruct highest cpu regist schedul round dwrr cach fair equat
+	System Chosen Intruder Word = dwrr
+	True Intruder Word = equat
+
+[0.0] author model specif categori form term detect gener constraint express type
+	System Chosen Intruder Word = categori
+	True Intruder Word = detect
+
+[0.0] ste typest live queue knock forward variabl method fast stage applic
+	System Chosen Intruder Word = typest
+	True Intruder Word = live
+
+[0.0] interv replai record page tabl group srr log applic size detect
+	System Chosen Intruder Word = srr
+	True Intruder Word = detect
+
+[0.0] statement finish program variabl distribut detect local place type async arrai
+	System Chosen Intruder Word = finish
+	True Intruder Word = detect
+
+[1.0] site snp popul haplotyp common transistor genotyp data column block frequenc
+	System Chosen Intruder Word = transistor
+	True Intruder Word = transistor
+
+[0.0] unc call open interv cilk cmu path context doc logic idl
+	System Chosen Intruder Word = unc
+	True Intruder Word = interv
+
+[0.0] buffer port model traffic integr flit messag packet flow network size
+	System Chosen Intruder Word = flit
+	True Intruder Word = integr
+
+[0.0] work parallel call share overhead geometr thread execut applic synchron compil
+	System Chosen Intruder Word = compil
+	True Intruder Word = geometr
+
+[1.0] time input order gener comput number run output transistor step algorithm
+	System Chosen Intruder Word = transistor
+	True Intruder Word = transistor
+
+[0.0] site pssm reput pattern sequenc score pro learn signal bind motif
+	System Chosen Intruder Word = pssm
+	True Intruder Word = reput
+
+[0.0] element platform multipl matrix live column block comput multipli processor row
+	System Chosen Intruder Word = row
+	True Intruder Word = live
+
+[1.0] solut minim weight optim search problem approxim iter list find solv
+	System Chosen Intruder Word = list
+	True Intruder Word = list
+
+[0.0] author system reput rate respons decis request pdp cach sdp alloc
+	System Chosen Intruder Word = sdp
+	True Intruder Word = reput
+
+[0.0] invert compon live edg link hing dissect triangul refin triangl mesh
+	System Chosen Intruder Word = dissect
+	True Intruder Word = live
+
+[0.0] condit histori reput requir order correct oper semant read execut sequenti
+	System Chosen Intruder Word = semant
+	True Intruder Word = reput
+
+[1.0] work gener page repres paper base case part geometr provid applic
+	System Chosen Intruder Word = geometr
+	True Intruder Word = geometr
+
+[0.0] result intens call obtain assum set denot problem case exist note
+	System Chosen Intruder Word = denot
+	True Intruder Word = intens
+
+[0.0] sensor rip node system list simul host clock shadow radio network
+	System Chosen Intruder Word = rip
+	True Intruder Word = list
+
+[1.0] expect point time constant random comput log bound reput algorithm size
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] ocd real decod architectur inject block motion filter integr sampl video
+	System Chosen Intruder Word = ocd
+	True Intruder Word = integr
+
+[0.0] bit encod scheme multipl integr delai pipelin cycl multipli code propos
+	System Chosen Intruder Word = pipelin
+	True Intruder Word = integr
+
+[0.0] minim bodi graph edg enumer equat pin laman rigid hing framework
+	System Chosen Intruder Word = laman
+	True Intruder Word = equat
+
+[0.0] con vertic chain circl vertex pull live gurat length origami move
+	System Chosen Intruder Word = gurat
+	True Intruder Word = live
+
+[1.0] transistor reput input clock voltag circuit power high output logic gate
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[1.0] transcript gene pair regulatori genom conserv regul word equat factor express
+	System Chosen Intruder Word = equat
+	True Intruder Word = equat
+
+[1.0] time interv formal level task state action properti transit user privileg
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[0.0] queri updat tree structur delet detect maintain list insert log dynam
+	System Chosen Intruder Word = tree
+	True Intruder Word = detect
+
+[0.0] transact commit set reput stm write read conflict object abort version
+	System Chosen Intruder Word = stm
+	True Intruder Word = reput
+
+[0.0] polygon shortest edg obstacl integr homotopi disk path distanc class curv
+	System Chosen Intruder Word = homotopi
+	True Intruder Word = integr
+
+[0.0] workload bit integr mst system overhead prioriti lazi scalabl gtc inl
+	System Chosen Intruder Word = inl
+	True Intruder Word = integr
+
+[1.0] increas limit result time requir larg number detect compar small similar
+	System Chosen Intruder Word = detect
+	True Intruder Word = detect
+
+[1.0] nois input circuit frequenc signal cmo output filter amplifi interv gain
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[1.0] result call assum form gener set paper comput case note reput
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[1.0] assign model deleg scheme xacml role hierarchi administr user privileg kei
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] appli xacml rule score domain target comput languag group deni similar
+	System Chosen Intruder Word = score
+	True Intruder Word = xacml
+
+[0.0] medial topolog point ball list voronoi axi manifold distanc diagram construct
+	System Chosen Intruder Word = medial
+	True Intruder Word = list
+
+[1.0] buffer chip router messag affin latenc packet flow network rout size
+	System Chosen Intruder Word = affin
+	True Intruder Word = affin
+
+[0.0] mpi parallel scale system request commun cluster transistor comput processor collect
+	System Chosen Intruder Word = mpi
+	True Intruder Word = transistor
+
+[0.0] time integr pixel event line statu object imag spanner activ agent
+	System Chosen Intruder Word = spanner
+	True Intruder Word = integr
+
+[0.0] polygon point rai segment arrai lscript line epsilon boundari convex bound
+	System Chosen Intruder Word = epsilon
+	True Intruder Word = arrai
+
+[0.0] gene genom breakpoint chromosom buffer cog ortholog block repeat team rearrang
+	System Chosen Intruder Word = cog
+	True Intruder Word = buffer
+
+[1.0] process reput bit parallel stream orient optim byte rang utf kernel
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] patient consent ehr composit privaci set smer constraint sso polici interv
+	System Chosen Intruder Word = smer
+	True Intruder Word = interv
+
+[0.0] author assign buffer deleg task constraint role execut workflow user instanc
+	System Chosen Intruder Word = workflow
+	True Intruder Word = buffer
+
+[0.0] author control queri node respons updat request arrai cach access insert
+	System Chosen Intruder Word = node
+	True Intruder Word = arrai
+
+[0.0] attribut updat subject behavior action state ucon usag detect polici access
+	System Chosen Intruder Word = ucon
+	True Intruder Word = detect
+
+[0.0] condit memori program thread variabl buffer lock execut race step critic
+	System Chosen Intruder Word = race
+	True Intruder Word = buffer
+
+[0.0] inform entitl locat densiti rule layer buffer featur base provis rout
+	System Chosen Intruder Word = densiti
+	True Intruder Word = buffer
+
+[0.0] allel haplotyp marker variabl recombin data block loci pedigre interv elimin
+	System Chosen Intruder Word = pedigre
+	True Intruder Word = interv
+
+[0.0] mass reaction ion peptid windo novo interpret score detect footprint type
+	System Chosen Intruder Word = windo
+	True Intruder Word = detect
+
+[0.0] member abstract context base layer cluster constraint nurs transistor object applic
+	System Chosen Intruder Word = nurs
+	True Intruder Word = transistor
+
+[1.0] memori system architectur comput perform number cach equat processor applic size
+	System Chosen Intruder Word = equat
+	True Intruder Word = equat
+
+[0.0] defin model specif system set definit base relat constraint user express
+	System Chosen Intruder Word = constraint
+	True Intruder Word = user
+
+[1.0] work parallel steal time quanta quantum job schedul effici processor xacml
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] result model detect tabl paramet number valu measur perform analysi compar
+	System Chosen Intruder Word = tabl
+	True Intruder Word = detect
+
+[1.0] bit architectur xacml delai oper cycl block implement filter design propos
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] result distort metric vector distanc random space bardbl log embed xacml
+	System Chosen Intruder Word = bardbl
+	True Intruder Word = xacml
+
+[0.0] process system integr subject trust program file arrai instal measur code
+	System Chosen Intruder Word = trust
+	True Intruder Word = arrai
+
+[0.0] bit parallel tabl detect program tile partit hta line implement code
+	System Chosen Intruder Word = hta
+	True Intruder Word = detect
+
+[1.0] weight optim xacml search seed sequenc align column match shape gap
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[1.0] input system simul frequenc circuit signal modul phase filter buffer gain
+	System Chosen Intruder Word = buffer
+	True Intruder Word = buffer
+
+[0.0] grant mission clump decis permit lscript rrbracket redirect xacml languag deni
+	System Chosen Intruder Word = rrbracket
+	True Intruder Word = xacml
+
+[0.0] gene data classi hybrid equat express primer log sampl arrai probe
+	System Chosen Intruder Word = classi
+	True Intruder Word = equat
+
+[0.0] memori transact tree equat trace nest access xmodul ancestor databas abort
+	System Chosen Intruder Word = xmodul
+	True Intruder Word = equat
+
+[0.0] work polen pattern gadget set rdf strip devic tripl list network
+	System Chosen Intruder Word = polen
+	True Intruder Word = list
+
+[1.0] work time requir support reput oper singl implement perform run provid
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] surfac integr interv scheme embryo method match imag sampl mesh function
+	System Chosen Intruder Word = match
+	True Intruder Word = interv
+
+[0.0] oblig list resourc request rule permit combin polici xacml evalu deni
+	System Chosen Intruder Word = xacml
+	True Intruder Word = list
+
+[1.0] terrain point contour edg transistor vertic vertex triangul triangl delaunai river
+	System Chosen Intruder Word = transistor
+	True Intruder Word = transistor
+
+[1.0] detect bit memori error xacml test data block fault modul propos
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[1.0] transcript gene pair xacml genom regul conserv factor express motif function
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] reconfigur configur time clock path comput implement fpga modul logic buffer
+	System Chosen Intruder Word = path
+	True Intruder Word = buffer
+
+[1.0] process transistor model oscil effect voltag current reput circuit temperatur gate
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[0.0] attribut equat requir set semant role hierarchi object access user video
+	System Chosen Intruder Word = video
+	True Intruder Word = equat
+
+[1.0] queri system equat time fact entiti predict polici access user room
+	System Chosen Intruder Word = equat
+	True Intruder Word = equat
+
+[1.0] node machin tree pattern structur set data mine xacml local frequent
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] unit interv upper dimension lower constant problem approxim polytop dimens bound
+	System Chosen Intruder Word = polytop
+	True Intruder Word = interv
+
+[1.0] tree edg enumer connect affin root set path problem algorithm span
+	System Chosen Intruder Word = affin
+	True Intruder Word = affin
+
+[0.0] control alloi model role constraint polici administr access xacml user rbac
+	System Chosen Intruder Word = alloi
+	True Intruder Word = xacml
+
+[0.0] assign set permiss role hierarchi problem mine activ user rbac reput
+	System Chosen Intruder Word = mine
+	True Intruder Word = reput
+
+[0.0] expect probabl detect atr sequenc random length distribut summationdisplai step function
+	System Chosen Intruder Word = summationdisplai
+	True Intruder Word = detect
+
+[1.0] member document model time fill leav join transistor object group access
+	System Chosen Intruder Word = transistor
+	True Intruder Word = transistor
+
+[0.0] parallel memori program thread tile data loop code list arrai compil
+	System Chosen Intruder Word = tile
+	True Intruder Word = list
+
+[1.0] con erent cient rst speci nition cation type ned xacml move
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] genu rectangular surfac area order side layout partit planar transistor rectangl
+	System Chosen Intruder Word = genu
+	True Intruder Word = transistor
+
+[0.0] prime degre equat transvers intersect primeprim line predic vextendsingl integr case
+	System Chosen Intruder Word = primeprim
+	True Intruder Word = integr
+
+[0.0] energi time model system arrai simul task schedul power execut run
+	System Chosen Intruder Word = schedul
+	True Intruder Word = arrai
+
+[1.0] process interv system level gener test base approach design applic function
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[1.0] nois transistor voltag current circuit usag power cmo output low design
+	System Chosen Intruder Word = usag
+	True Intruder Word = usag
+
+[1.0] stream model oper predictor predict xacml vector edit train svm kernel
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] control model assign secur action owl role class list access rbac
+	System Chosen Intruder Word = owl
+	True Intruder Word = list
+
+[1.0] subgraph degre graph transistor edg vertic connect color vertex number cross
+	System Chosen Intruder Word = transistor
+	True Intruder Word = transistor
+
+[0.0] unc open deleg cmu const seal doc framework logic transistor formula
+	System Chosen Intruder Word = unc
+	True Intruder Word = transistor
+
+[0.0] process node integr simul graph search distribut comput cluster perform applic
+	System Chosen Intruder Word = cluster
+	True Intruder Word = integr
+
+[0.0] work atom trace task event write read line arrai interv algorithm
+	System Chosen Intruder Word = atom
+	True Intruder Word = interv
+
+[0.0] queue parallel oper program data server flow fast modul arrai aspen
+	System Chosen Intruder Word = aspen
+	True Intruder Word = arrai
+
+[1.0] peer replai record xacml system event trust rule group reput srr
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] queri point structur rang cell report block relat space log bound
+	System Chosen Intruder Word = queri
+	True Intruder Word = relat
+
+[1.0] process mpi send xacml messag commun comput rdma receiv perform applic
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] region integr model gene sequenc genom align state score hmm base
+	System Chosen Intruder Word = score
+	True Intruder Word = integr
+
+[1.0] topolog point surfac connect vertic comput reput box curv arrang algebra
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[1.0] parallel platform linear matrix block comput perform factor processor algorithm reput
+	System Chosen Intruder Word = reput
+	True Intruder Word = reput
+
+[1.0] solut time input optim gener number problem interv step find algorithm
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[1.0] parallel call barrier program method object analysi place interv type execut
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[0.0] point time geodes set distanc comput conv hull space integr convex
+	System Chosen Intruder Word = conv
+	True Intruder Word = integr
+
+[0.0] transform element lattic vector matrix column polyhedron row detect represent affin
+	System Chosen Intruder Word = polyhedron
+	True Intruder Word = detect
+
+[0.0] assign interv nmr structur file command grid nvr rdc ssh mesh
+	System Chosen Intruder Word = nvr
+	True Intruder Word = interv
+
+[0.0] transact commit concurr nest lock integr write read conflict object abort
+	System Chosen Intruder Word = nest
+	True Intruder Word = integr
+
+[0.0] risk xacml inform vm system model secur domain label flow polici
+	System Chosen Intruder Word = label
+	True Intruder Word = xacml
+
+[0.0] model transistor probabl tion test set sequenc distribut comput method likelihood
+	System Chosen Intruder Word = tion
+	True Intruder Word = transistor
+
+[1.0] transistor area xacml lower structur cell number implement logic network gpu
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] site rip interv time shortest edg obstacl path cycl comput cut
+	System Chosen Intruder Word = rip
+	True Intruder Word = interv
+
+[1.0] site snp interv popul haplotyp common pair genotyp data block frequenc
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[0.0] site pattern sequenc score pro learn signal posit bind buffer motif
+	System Chosen Intruder Word = score
+	True Intruder Word = buffer
+
+[0.0] parallel specul order task depend program thread relat schedul execut speedup
+	System Chosen Intruder Word = thread
+	True Intruder Word = relat
+
+[0.0] bit memori locat transact equat thread stm lock write base read
+	System Chosen Intruder Word = stm
+	True Intruder Word = equat
+
+[1.0] share prefetch benchmark scheme helper gadget thread xacml circuit core group
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] post level oper int pca class scan type reduct list function
+	System Chosen Intruder Word = int
+	True Intruder Word = list
+
+[0.0] doubl reput pseudolin bodi pin laman rigid hing dissect framework arrang
+	System Chosen Intruder Word = pseudolin
+	True Intruder Word = reput
+
+[1.0] control system secur level buffer integr polici object access user privileg
+	System Chosen Intruder Word = buffer
+	True Intruder Word = buffer
+
+[0.0] virtual interv system memori page tabl thread user checkpoint access applic
+	System Chosen Intruder Word = checkpoint
+	True Intruder Word = user
+
+[0.0] control author system resourc trust servic server polici access user usag
+	System Chosen Intruder Word = trust
+	True Intruder Word = usag
+
+[0.0] invert transistor input time compon clock vector zoid bufer skew mesh
+	System Chosen Intruder Word = bufer
+	True Intruder Word = transistor
+
+[1.0] parallel call time overhead program thread interv loop run execut profil
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[0.0] structur pair conform protein sequenc align residu domain arrai score fold
+	System Chosen Intruder Word = score
+	True Intruder Word = arrai
+
+[0.0] interv reput isp interleav persist diagram homolog space modul zigzag function
+	System Chosen Intruder Word = isp
+	True Intruder Word = reput
+
+[0.0] energi detect complex pair conform protein physic comput interact mutat function
+	System Chosen Intruder Word = conform
+	True Intruder Word = detect
+
+[0.0] time updat tree structur delet segment buffer comput list split insert
+	System Chosen Intruder Word = tree
+	True Intruder Word = buffer
+
+[0.0] time weight thread cpu grid schedul reput round dwrr adapt fair
+	System Chosen Intruder Word = dwrr
+	True Intruder Word = reput
+
+[0.0] point transistor cover time set intersect cell comput log size algorithm
+	System Chosen Intruder Word = intersect
+	True Intruder Word = transistor
+
+[1.0] element xacml cascad level session set bloom insert access posit filter
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] process model level copr lscript crm log step rep list size
+	System Chosen Intruder Word = lscript
+	True Intruder Word = list
+
+[0.0] author stream resourc deleg oper privaci polici access privileg buffer delegate
+	System Chosen Intruder Word = delegate
+	True Intruder Word = buffer
+
+[0.0] parallel system time complex program comput commun perform processor execut applic
+	System Chosen Intruder Word = parallel
+	True Intruder Word = complex
+
+[1.0] process pixel atr vector embryo repeat xacml match imag motion video
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[0.0] model probabl transistor sequenc genom seed align score state length posit
+	System Chosen Intruder Word = seed
+	True Intruder Word = transistor
+
+[0.0] parallel prefetch specul task depend integr thread loop core code execut
+	System Chosen Intruder Word = specul
+	True Intruder Word = integr
+
+[0.0] memori transact thread stm lock write base affin read implement access
+	System Chosen Intruder Word = stm
+	True Intruder Word = affin
+
+[0.0] site gene model sequenc data score conserv express bind integr motif
+	System Chosen Intruder Word = score
+	True Intruder Word = integr
+
+[0.0] author arrai deleg respons task request constraint execut workflow user instanc
+	System Chosen Intruder Word = workflow
+	True Intruder Word = arrai
+
+[0.0] prune conform tag score comput mutat shape hybrid primer bound affin
+	System Chosen Intruder Word = score
+	True Intruder Word = affin
+
+[0.0] system node tree complex consist event trace rule comput view xmodul
+	System Chosen Intruder Word = xmodul
+	True Intruder Word = complex
+
+[0.0] bit memori instruct architectur complex matrix block perform cach processor size
+	System Chosen Intruder Word = matrix
+	True Intruder Word = complex
+
+[1.0] time secur leav join attack affin group access user databas kei
+	System Chosen Intruder Word = affin
+	True Intruder Word = affin
+
+[0.0] prime degre equat difer lscript primeprim line vextendsingl case affin river
+	System Chosen Intruder Word = primeprim
+	True Intruder Word = affin
+
+[1.0] energi complex structur interv pair protein sequenc residu domain interact fold
+	System Chosen Intruder Word = interv
+	True Intruder Word = interv
+
+[1.0] oblig attribut updat haplotyp rule request permit polici xacml usag deni
+	System Chosen Intruder Word = haplotyp
+	True Intruder Word = haplotyp
+
+[0.0] con erent vertic rst state speci nition arrai cation ned move
+	System Chosen Intruder Word = erent
+	True Intruder Word = arrai
+
+[0.0] memori stream optim program cell thread data kernel line gpu compil
+	System Chosen Intruder Word = compil
+	True Intruder Word = line
+
+[0.0] polygon point edg vertic chain segment path comput equat line triangl
+	System Chosen Intruder Word = chain
+	True Intruder Word = equat
+
+[1.0] memori oper program task haplotyp thread variabl lock read execut race
+	System Chosen Intruder Word = haplotyp
+	True Intruder Word = haplotyp
+
+[0.0] bit queri secur byte rule integr rdf xml utf insert agent
+	System Chosen Intruder Word = agent
+	True Intruder Word = integr
+
+[1.0] inform system integr secur transistor level subject trust data polici flow
+	System Chosen Intruder Word = transistor
+	True Intruder Word = transistor
+
+[0.0] bit node tree delai oper usag data path comput spanner synchron
+	System Chosen Intruder Word = spanner
+	True Intruder Word = usag
+
+[0.0] point ball voronoi axi metric distanc persist diagram space arrai function
+	System Chosen Intruder Word = ball
+	True Intruder Word = arrai
+
+[0.0] inform share organ set rule data busi role interv mine similar
+	System Chosen Intruder Word = mine
+	True Intruder Word = interv
+
+[1.0] process node simul gadget experi cluster comput perform haplotyp applic network
+	System Chosen Intruder Word = haplotyp
+	True Intruder Word = haplotyp
+
+[1.0] model estim predict vector data distribut base method sampl haplotyp function
+	System Chosen Intruder Word = haplotyp
+	True Intruder Word = haplotyp
+
+[1.0] reconfigur haplotyp memori system time test fault fpga modul design embed
+	System Chosen Intruder Word = haplotyp
+	True Intruder Word = haplotyp
+
+[0.0] call lattic polyhedra equival interv vector layout polytop polyhedron represent affin
+	System Chosen Intruder Word = layout
+	True Intruder Word = interv
+
+[1.0] snp allel user haplotyp genotyp variabl genet data recombin block pedigre
+	System Chosen Intruder Word = user
+	True Intruder Word = user
+
+[0.0] steal queue parallel integr time quantum thread schedul job round processor
+	System Chosen Intruder Word = quantum
+	True Intruder Word = integr
+
+[0.0] interv replai time memori page tabl access integr group profil size
+	System Chosen Intruder Word = replai
+	True Intruder Word = integr
+
+[0.0] point cover plane segment set complex intersect line epsilon curv bound
+	System Chosen Intruder Word = epsilon
+	True Intruder Word = complex
+
+[0.0] point surfac vertic comput triangul curv delaunai mesh algorithm algebra usag
+	System Chosen Intruder Word = delaunai
+	True Intruder Word = usag
+
+[0.0] point time set random comput interv approxim log convex size algorithm
+	System Chosen Intruder Word = convex
+	True Intruder Word = interv
+
+[0.0] call barrier futur program concurr method analysi place type equat execut
+	System Chosen Intruder Word = concurr
+	True Intruder Word = equat
+
+[1.0] assign set affin permiss role constraint hierarchi activ access user rbac
+	System Chosen Intruder Word = affin
+	True Intruder Word = affin
+
+[0.0] queri point level structur rang cell list space insert log equat
+	System Chosen Intruder Word = queri
+	True Intruder Word = equat
+
+[1.0] control author inform system model secur list base polici access user
+	System Chosen Intruder Word = list
+	True Intruder Word = list
+
+[0.0] parallel oper program tile hta languag implement code haplotyp arrai function
+	System Chosen Intruder Word = hta
+	True Intruder Word = haplotyp
+
+[1.0] result time optim gener set comput problem number algorithm size arrai
+	System Chosen Intruder Word = arrai
+	True Intruder Word = arrai
+
+[0.0] memori transact commit oper nest integr lock read conflict object abort
+	System Chosen Intruder Word = nest
+	True Intruder Word = integr
+
+[0.0] defin model specif complex gener set definit base constraint properti function
+	System Chosen Intruder Word = constraint
+	True Intruder Word = complex
+
+[1.0] work result arrai level requir data approach number perform case applic
+	System Chosen Intruder Word = arrai
+	True Intruder Word = arrai
+
+[1.0] system resourc trust xacml servic request state server access user network
+	System Chosen Intruder Word = xacml
+	True Intruder Word = xacml
+
+[1.0] subgraph graph edg vertic list tree connect color vertex number cross
+	System Chosen Intruder Word = list
+	True Intruder Word = list
+
+[0.0] attribut requir set semant arrai owl object access type user video
+	System Chosen Intruder Word = owl
+	True Intruder Word = arrai
+
+[0.0] peer mpi oper messag matrix commun implement receiv usag group type
+	System Chosen Intruder Word = mpi
+	True Intruder Word = usag
+
+[1.0] buffer simul messag latenc commun rdma receiv packet network affin size
+	System Chosen Intruder Word = affin
+	True Intruder Word = affin
+
+[0.0] input clock circuit list block power frequenc signal implement output filter
+	System Chosen Intruder Word = clock
+	True Intruder Word = list
+
+[1.0] nois usag transistor voltag current circuit power cmo output low design
+	System Chosen Intruder Word = usag
+	True Intruder Word = usag
+

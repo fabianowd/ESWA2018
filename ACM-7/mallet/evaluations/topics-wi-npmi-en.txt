@@ -1,0 +1,2400 @@
+[1.0] schema maximum_recoveri maximum map_schema extend depend map sourc recoveri simul_system instanc
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] model_univers model univers set constraint sens tgd comput chase core instanc
+	System Chosen Intruder Word = model_univers
+	True Intruder Word = sens
+
+[0.0] real cover color depend relat silent epsilon approxim bound kei size
+	System Chosen Intruder Word = epsilon
+	True Intruder Word = silent
+
+[0.0] queri point index time tree bitmap rang data cost size compon
+	System Chosen Intruder Word = tree
+	True Intruder Word = compon
+
+[0.0] system model simul simul_symbiot select physic symbiot prune simul_system radiat physic_system
+	System Chosen Intruder Word = simul_symbiot
+	True Intruder Word = prune
+
+[0.0] decod time frame sens check pattern half frame_half devic match video
+	System Chosen Intruder Word = frame_half
+	True Intruder Word = sens
+
+[1.0] process time event_process event messag simul_system lp rollback processor warp algorithm
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] bluetooth bluetooth_devic system blue monarch mobil blue_monarch data devic univers applic
+	System Chosen Intruder Word = bluetooth_devic
+	True Intruder Word = univers
+
+[0.0] time player game_player session onlin behavior comput distribut plai server game
+	System Chosen Intruder Word = game_player
+	True Intruder Word = comput
+
+[0.0] prime term deriv sens variabl context write turnstileleft nomin substitut logic
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = sens
+
+[0.0] durat sensor time tempor silent event oid cluster drill activ instanc
+	System Chosen Intruder Word = oid
+	True Intruder Word = silent
+
+[0.0] call test program case_test crwl comput case logic function constructor univers
+	System Chosen Intruder Word = case_test
+	True Intruder Word = univers
+
+[0.0] authent node system secur implic updat internet kdc kei_node network kei
+	System Chosen Intruder Word = kei_node
+	True Intruder Word = internet
+
+[1.0] topolog model gener link direction path distribut number internet rout network
+	System Chosen Intruder Word = direction
+	True Intruder Word = direction
+
+[0.0] site time frame silent delai interfac orc state power null idl
+	System Chosen Intruder Word = orc
+	True Intruder Word = silent
+
+[1.0] hand bit memori instruct amd regist code stack compil simul_system alloc
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] prime queri model probabl tree data distribut probabilist version blog world
+	System Chosen Intruder Word = blog
+	True Intruder Word = version
+
+[0.0] author certif time complex research set rule analysi access auth kei
+	System Chosen Intruder Word = auth
+	True Intruder Word = research
+
+[1.0] sensor energi detect phone state devic sens sampl prune gp batteri
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[0.0] time system integr order scheme method respons_time local step student critic
+	System Chosen Intruder Word = respons_time
+	True Intruder Word = student
+
+[0.0] process observ program mapsto silent rule variabl case evalu express function
+	System Chosen Intruder Word = mapsto
+	True Intruder Word = silent
+
+[1.0] increment queue direction point input support composit program messag answer analysi
+	System Chosen Intruder Word = direction
+	True Intruder Word = direction
+
+[1.0] support pattern order itemset simul_system dataset test signific subgoal execut bind
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] element time node lscript pma number insert direction execut cost size
+	System Chosen Intruder Word = lscript
+	True Intruder Word = direction
+
+[0.0] stamp valid time model system internet compon event width axiom function
+	System Chosen Intruder Word = width
+	True Intruder Word = internet
+
+[0.0] infer_type research system program infer constraint languag type express function algorithm
+	System Chosen Intruder Word = infer_type
+	True Intruder Word = research
+
+[0.0] schema node student transduc tree satisfi rule xml problem label express
+	System Chosen Intruder Word = transduc
+	True Intruder Word = student
+
+[1.0] time handoff client ap qualiti perform measur channel throughput network prune
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[0.0] weight rate count vehicl adjust_weight adjust number flow packet detect sampl
+	System Chosen Intruder Word = adjust_weight
+	True Intruder Word = detect
+
+[0.0] secur level tree proven annot set semant data relat semir sens
+	System Chosen Intruder Word = semir
+	True Intruder Word = sens
+
+[0.0] condit time vehicl speed segment prune pothol data road trafc network
+	System Chosen Intruder Word = trafc
+	True Intruder Word = prune
+
+[0.0] protocol time frame player updat tupl messag game object direction posit
+	System Chosen Intruder Word = tupl
+	True Intruder Word = direction
+
+[1.0] host connect commun load tcp switch measur polici run algorithm prune
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[0.0] control node wireless univers time simul testb movement number neighbor network
+	System Chosen Intruder Word = testb
+	True Intruder Word = univers
+
+[0.0] node bnc form tree structur program variabl ssa univers type algorithm
+	System Chosen Intruder Word = bnc
+	True Intruder Word = univers
+
+[0.0] content share internet phone system file alert access user applic mode
+	System Chosen Intruder Word = alert
+	True Intruder Word = internet
+
+[0.0] stream model memori input sens form data problem access bound algorithm
+	System Chosen Intruder Word = stream
+	True Intruder Word = sens
+
+[0.0] virtual thread servic virtual_world schedul commun signal avatar user world version
+	System Chosen Intruder Word = virtual_world
+	True Intruder Word = version
+
+[0.0] time locat system internet rate data particip activ user studi research
+	System Chosen Intruder Word = locat
+	True Intruder Word = internet
+
+[0.0] time locat proxi updat student track star cluster devic applic similar
+	System Chosen Intruder Word = star
+	True Intruder Word = student
+
+[0.0] prime store chr_constraint prioriti program rule prune semant constraint goal chr
+	System Chosen Intruder Word = chr_constraint
+	True Intruder Word = prune
+
+[0.0] project curat proven internet forward annot rule data lolli databas algorithm
+	System Chosen Intruder Word = lolli
+	True Intruder Word = internet
+
+[1.0] process call lag order correct experi action survei execut similar direction
+	System Chosen Intruder Word = direction
+	True Intruder Word = direction
+
+[1.0] system term program semant relat interpret languag prune type express logic
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[1.0] schema inform result form depend bot partit cell prune normal posit
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[0.0] client_game client guard_mobil camera task mobil guard report data server sens
+	System Chosen Intruder Word = client_game
+	True Intruder Word = camera
+
+[1.0] sensor node time system requir respons_time network_sensor data base radio network
+	System Chosen Intruder Word = respons_time
+	True Intruder Word = respons_time
+
+[0.0] prime system error cell method version object type spreadsheet formula function
+	System Chosen Intruder Word = prime
+	True Intruder Word = version
+
+[1.0] replic silent estim time transact read local replica databas sampl shockwav
+	System Chosen Intruder Word = silent
+	True Intruder Word = silent
+
+[0.0] open data_type nest data state automata word univers languag nest_word function
+	System Chosen Intruder Word = data_type
+	True Intruder Word = univers
+
+[0.0] atom homomorph set partit silent sol tgd block chase aggreg algorithm
+	System Chosen Intruder Word = sol
+	True Intruder Word = silent
+
+[0.0] node random_walk random length length_walk space walk detect sampl algorithm pass
+	System Chosen Intruder Word = random_walk
+	True Intruder Word = detect
+
+[0.0] system model program semant student rule logic_program constraint claus languag logic
+	System Chosen Intruder Word = logic_program
+	True Intruder Word = student
+
+[1.0] acycl connect term variabl rule galoi student relat type instanc represent
+	System Chosen Intruder Word = student
+	True Intruder Word = student
+
+[1.0] energi cellular notifi call consumpt wireless cell interfac silent power network
+	System Chosen Intruder Word = silent
+	True Intruder Word = silent
+
+[0.0] particl univers time updat event cell data cedar storag databas algorithm
+	System Chosen Intruder Word = cedar
+	True Intruder Word = univers
+
+[0.0] transfer pattern updat cell train bridg match sens head rho design
+	System Chosen Intruder Word = rho
+	True Intruder Word = sens
+
+[0.0] prime process time probabl oper vectorx sens turnstileleft object skylin instanc
+	System Chosen Intruder Word = vectorx
+	True Intruder Word = sens
+
+[0.0] node tree prune regular root path languag label express logic xpath
+	System Chosen Intruder Word = label
+	True Intruder Word = prune
+
+[1.0] energi subset detect seizur prefetch simul_system patient data number channel detector
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] system locat prune strength mobil pet signal_strength signal scan measur posit
+	System Chosen Intruder Word = signal_strength
+	True Intruder Word = prune
+
+[1.0] queri point tree probabl set problem approxim cost algorithm similar silent
+	System Chosen Intruder Word = silent
+	True Intruder Word = silent
+
+[0.0] peer solut client delai direction architectur distribut server network zone algorithm
+	System Chosen Intruder Word = peer
+	True Intruder Word = direction
+
+[0.0] conting student incomplet tabl answer descript data margin pack view fragment
+	System Chosen Intruder Word = conting
+	True Intruder Word = student
+
+[1.0] consist depend data coupl simul_system rollback repair match agent cfd algorithm
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] set privaci tabl knowledg detect answer constraint repair prefer databas adversari
+	System Chosen Intruder Word = repair
+	True Intruder Word = detect
+
+[0.0] defin system time effect program research trace infer constraint class type
+	System Chosen Intruder Word = trace
+	True Intruder Word = research
+
+[0.0] suspend detect softwar pad time state isr user horatio kiosk resum
+	System Chosen Intruder Word = horatio
+	True Intruder Word = detect
+
+[0.0] process statement replic internet model session variabl state commun number ambient
+	System Chosen Intruder Word = ambient
+	True Intruder Word = internet
+
+[1.0] queri conjunct defin tupl set variabl simul_system relat problem databas bound
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] input form program string wui data languag implement detect type function
+	System Chosen Intruder Word = wui
+	True Intruder Word = detect
+
+[0.0] aoi version inform node model entiti updat pir statu posit dsmanag
+	System Chosen Intruder Word = dsmanag
+	True Intruder Word = version
+
+[0.0] detect worm system behavior mobil file version power signatur applic malwar
+	System Chosen Intruder Word = worm
+	True Intruder Word = version
+
+[1.0] region prime simul_system bitmap tag variabl languag turnstileleft type compil function
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] prime schema invers equival map_schema set map tgd chase direction instanc
+	System Chosen Intruder Word = map_schema
+	True Intruder Word = direction
+
+[1.0] softwar detect cheat prune system input thread data code stack applic
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[0.0] progress result time probabl tupl simul_time event direction set parallel_time state
+	System Chosen Intruder Word = simul_time
+	True Intruder Word = direction
+
+[1.0] transmit wireless time rate power receiv signal packet network univers algorithm
+	System Chosen Intruder Word = univers
+	True Intruder Word = univers
+
+[1.0] model time traffic simul rate delai tcp flow packet univers network
+	System Chosen Intruder Word = univers
+	True Intruder Word = univers
+
+[0.0] time locat graph tree student client ap report multicast group algorithm
+	System Chosen Intruder Word = ap
+	True Intruder Word = student
+
+[0.0] quanti pattern comput entiti gener set gener_quanti er_quanti er algorithm instanc
+	System Chosen Intruder Word = gener_quanti
+	True Intruder Word = comput
+
+[0.0] transform termin sort tr pair set detect depend program match soft
+	System Chosen Intruder Word = tr
+	True Intruder Word = detect
+
+[0.0] queri node direction time order edg string data log decai algorithm
+	System Chosen Intruder Word = decai
+	True Intruder Word = direction
+
+[0.0] system comput model net_sml servic sml web servic_web object net transit
+	System Chosen Intruder Word = net_sml
+	True Intruder Word = comput
+
+[0.0] work unit worm compon address infect messag scan cach rout network
+	System Chosen Intruder Word = worm
+	True Intruder Word = compon
+
+[0.0] interest messag manag steer student tile base beam number agent algorithm
+	System Chosen Intruder Word = tile
+	True Intruder Word = student
+
+[0.0] parallel time model system simul event state comput perform execut version
+	System Chosen Intruder Word = parallel
+	True Intruder Word = version
+
+[0.0] pebbl model test peir visibl comput prune exposur trip impact pta
+	System Chosen Intruder Word = peir
+	True Intruder Word = prune
+
+[0.0] abstract system order form term rewrit rule variabl reduct detect substitut
+	System Chosen Intruder Word = rewrit
+	True Intruder Word = detect
+
+[1.0] call program variabl comput signal silent polynomi type function size ctd
+	System Chosen Intruder Word = silent
+	True Intruder Word = silent
+
+[0.0] term determinist rewrit program rule variabl sens context comput languag function
+	System Chosen Intruder Word = rewrit
+	True Intruder Word = sens
+
+[0.0] abstract bit prolog machin check gener tag implement univers addr negat
+	System Chosen Intruder Word = addr
+	True Intruder Word = univers
+
+[0.0] silent index sprime equival term privaci sens rule shape aggreg arrai
+	System Chosen Intruder Word = sprime
+	True Intruder Word = sens
+
+[0.0] slingshot locat surrog servic state attack research posit replica applic databas
+	System Chosen Intruder Word = slingshot
+	True Intruder Word = research
+
+[1.0] cheat locat client silent updat refer delai domain server number geopag
+	System Chosen Intruder Word = silent
+	True Intruder Word = silent
+
+[0.0] prime result tupl relat score problem join bound algorithm silent instanc
+	System Chosen Intruder Word = score
+	True Intruder Word = silent
+
+[1.0] energi control node system capacitor data power solar prune leakag batteri
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[0.0] angel replic fidel direction updat item data high low gpu version
+	System Chosen Intruder Word = angel
+	True Intruder Word = direction
+
+[0.0] node wireless client link measur packet access compon group network mesh
+	System Chosen Intruder Word = mesh
+	True Intruder Word = compon
+
+[0.0] differ search set variabl propag domain constraint cluster research imag bound
+	System Chosen Intruder Word = cluster
+	True Intruder Word = research
+
+[0.0] charm prune virtual model sinr interest dve class neuron network formula
+	System Chosen Intruder Word = dve
+	True Intruder Word = prune
+
+[1.0] work project simul_system unit revers model simul isp sim worker comput
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[1.0] time locat traffic updat direction vehicl privaci item vtl line trip
+	System Chosen Intruder Word = direction
+	True Intruder Word = direction
+
+[0.0] statement pattern program rule relat method implement direction analysi logic dimpl
+	System Chosen Intruder Word = dimpl
+	True Intruder Word = direction
+
+[0.0] node tree program art comput student claus slice debug function algorithm
+	System Chosen Intruder Word = claus
+	True Intruder Word = student
+
+[0.0] prime node graph set data constraint exist complet student formula instanc
+	System Chosen Intruder Word = prime
+	True Intruder Word = student
+
+[0.0] time output_time client rang target track method measur student output network
+	System Chosen Intruder Word = output_time
+	True Intruder Word = student
+
+[0.0] peer inform wireless client respond link nic direction commun problem network
+	System Chosen Intruder Word = nic
+	True Intruder Word = direction
+
+[0.0] time simul failur messag event prune feder state case fault rti
+	System Chosen Intruder Word = rti
+	True Intruder Word = prune
+
+[0.0] bit prune sketch probabl privaci data number output user algorithm kei
+	System Chosen Intruder Word = sketch
+	True Intruder Word = prune
+
+[0.0] abstract control system oper combin detect box polici access transit grammar
+	System Chosen Intruder Word = grammar
+	True Intruder Word = detect
+
+[0.0] time traffic transact payment compon cash ferio perform user network mesh
+	System Chosen Intruder Word = ferio
+	True Intruder Word = compon
+
+[1.0] queri optim order strategi problem evalu flow cost filter silent algorithm
+	System Chosen Intruder Word = silent
+	True Intruder Word = silent
+
+[1.0] child node time prune tree set string data state valu xpath
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[0.0] content stream context commun tcp perform adapt packet sens imag user
+	System Chosen Intruder Word = stream
+	True Intruder Word = sens
+
+[0.0] element stream window item detect data epsilon slide sampl bound algorithm
+	System Chosen Intruder Word = epsilon
+	True Intruder Word = detect
+
+[1.0] region client_server system client proxi architectur manag messag latenc simul_system server
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[1.0] detect rfid locat silent reader tag read scan object local antenna
+	System Chosen Intruder Word = silent
+	True Intruder Word = silent
+
+[0.0] model node comma comput solver area variabl rule state constraint suffer
+	System Chosen Intruder Word = comma
+	True Intruder Word = comput
+
+[0.0] detect time rfid probabl compon event proxim cascadia prune branch cue
+	System Chosen Intruder Word = cascadia
+	True Intruder Word = prune
+
+[0.0] point model traffic client prune research tabl answer server number packet
+	System Chosen Intruder Word = prune
+	True Intruder Word = research
+
+[0.0] detect time error distanc track comput power measur accuraci posit gp
+	System Chosen Intruder Word = track
+	True Intruder Word = comput
+
+[1.0] model time resourc prune simul compon manag file servic develop applic
+	System Chosen Intruder Word = prune
+	True Intruder Word = prune
+
+[0.0] energi time search structur direction protein file data block dali modul
+	System Chosen Intruder Word = dali
+	True Intruder Word = direction
+
+[1.0] center point optim data cluster problem approxim case cost algorithm respons_time
+	System Chosen Intruder Word = respons_time
+	True Intruder Word = respons_time
+
+[0.0] project degre model page distribut pegboard silent qualiti develop applic design
+	System Chosen Intruder Word = pegboard
+	True Intruder Word = silent
+
+[0.0] work unit control time program aurora evalu direction partial algorithm unit_work
+	System Chosen Intruder Word = unit_work
+	True Intruder Word = direction
+
+[0.0] sensor queri servic context cmq data student state mon synthesi sw
+	System Chosen Intruder Word = cmq
+	True Intruder Word = student
+
+[1.0] queri complex model attribut structur finit simul_system relat languag express databas
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[1.0] detect sm proxi messag infect direction alert virus report smartphon viru
+	System Chosen Intruder Word = direction
+	True Intruder Word = direction
+
+[1.0] virtual player game_player respons_time onlin state plai game_server game network world
+	System Chosen Intruder Word = respons_time
+	True Intruder Word = respons_time
+
+[0.0] queri internet equival set bag depend semant semant_set chase bag_set bag_semant
+	System Chosen Intruder Word = semant_set
+	True Intruder Word = internet
+
+[1.0] work system mobil base version comput commun devic user applic network
+	System Chosen Intruder Word = version
+	True Intruder Word = version
+
+[0.0] time poll comput collabor compon mobil request server web initi user
+	System Chosen Intruder Word = poll
+	True Intruder Word = comput
+
+[0.0] schema solut map_schema set detect map data tgd sourc exchang instanc
+	System Chosen Intruder Word = map_schema
+	True Intruder Word = detect
+
+[0.0] snr univers system student divers direction beam teacher forc antenna network
+	System Chosen Intruder Word = snr
+	True Intruder Word = univers
+
+[0.0] detect wireless comput monitor frame air_monitor data air deploy packet network
+	System Chosen Intruder Word = air_monitor
+	True Intruder Word = comput
+
+[0.0] prime pattern correct program fepsilon insid match sens object log compil
+	System Chosen Intruder Word = fepsilon
+	True Intruder Word = sens
+
+[0.0] content page relev mobil link brows context direction block web page_web
+	System Chosen Intruder Word = page_web
+	True Intruder Word = direction
+
+[0.0] flash page direction program flashproxi browser web java script agent displai
+	System Chosen Intruder Word = flashproxi
+	True Intruder Word = direction
+
+[0.0] authent protocol secur address univers messag trust devic attack user kei
+	System Chosen Intruder Word = trust
+	True Intruder Word = univers
+
+[0.0] squar memori chunk oper direction sol crwl checkpoint case alloc function
+	System Chosen Intruder Word = crwl
+	True Intruder Word = direction
+
+[0.0] shroud point student time client ap address select virgil access algorithm
+	System Chosen Intruder Word = virgil
+	True Intruder Word = student
+
+[0.0] phone system frame lag sound featur classif sens agent classifi internet
+	System Chosen Intruder Word = agent
+	True Intruder Word = internet
+
+[0.0] ospf protocol updat experi camera bgp imag comput rout network video
+	System Chosen Intruder Word = rout
+	True Intruder Word = comput
+
+[1.0] result call order gener page set student base comput case function
+	System Chosen Intruder Word = student
+	True Intruder Word = student
+
+[0.0] abstract condit point model behavior select set target reactiv signal internet
+	System Chosen Intruder Word = abstract
+	True Intruder Word = internet
+
+[0.0] prime condit rule class_type class dictionari turnstileleft type univers inst instanc
+	System Chosen Intruder Word = class_type
+	True Intruder Word = univers
+
+[0.0] solut prime data_exchang set student cwa target data answer exchang instanc
+	System Chosen Intruder Word = data_exchang
+	True Intruder Word = student
+
+[0.0] virtual real time model simul packet real_time network rout silent emul
+	System Chosen Intruder Word = real_time
+	True Intruder Word = silent
+
+[1.0] queri traffic strategi problem flow evalu adapt cost filter simul_system algorithm
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] time output_time antenna client store delai oid method solar output network
+	System Chosen Intruder Word = output_time
+	True Intruder Word = antenna
+
+[0.0] defin term program set rule variabl semant definit express logic version
+	System Chosen Intruder Word = program
+	True Intruder Word = version
+
+[0.0] rfid time system lag probabl sens event tag data speci applic
+	System Chosen Intruder Word = speci
+	True Intruder Word = sens
+
+[0.0] sensor detect node system time network_sensor process data deploy packet network
+	System Chosen Intruder Word = network_sensor
+	True Intruder Word = process
+
+[0.0] phone secur trust messag smartphon devic attack user avatar kiosk applic
+	System Chosen Intruder Word = kiosk
+	True Intruder Word = avatar
+
+[0.0] project input compon composit messag servic web develop applic univers design
+	System Chosen Intruder Word = composit
+	True Intruder Word = univers
+
+[0.0] system secur payment behavior servic cash ferio web user compon signatur
+	System Chosen Intruder Word = ferio
+	True Intruder Word = compon
+
+[0.0] open node time random_walk detect random data length space walk algorithm
+	System Chosen Intruder Word = random_walk
+	True Intruder Word = detect
+
+[1.0] peer virtual region system interest handoff manag messag server world network
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] schema prime invers map_schema set map target tgd sourc compon instanc
+	System Chosen Intruder Word = map_schema
+	True Intruder Word = compon
+
+[0.0] node wireless handoff link measur camera signal averag network throughput mesh
+	System Chosen Intruder Word = averag
+	True Intruder Word = camera
+
+[0.0] share phone system file select set handoff branch user applic algorithm
+	System Chosen Intruder Word = branch
+	True Intruder Word = handoff
+
+[0.0] queri particl point index time tree set sens rang data log
+	System Chosen Intruder Word = tree
+	True Intruder Word = sens
+
+[0.0] energi consumpt system time collabor mobil data power compon devic batteri
+	System Chosen Intruder Word = collabor
+	True Intruder Word = compon
+
+[1.0] locat estim node system error simul_system rang track measur signal posit
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[1.0] child node time tree instruct dom data execut execut_time cost simul_system
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] call time program regular annot rule comput evalu partial function size
+	System Chosen Intruder Word = annot
+	True Intruder Word = regular
+
+[1.0] solut center point optim set cluster handoff problem approxim cost algorithm
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] detect univers time certif sound set pothol data classif sens classifi
+	System Chosen Intruder Word = pothol
+	True Intruder Word = univers
+
+[0.0] element differ node tabl lscript pma antenna number insert log bound
+	System Chosen Intruder Word = lscript
+	True Intruder Word = antenna
+
+[0.0] node weight area count adjust number flow sens packet sampl size
+	System Chosen Intruder Word = packet
+	True Intruder Word = sens
+
+[0.0] snr compon node steer commun beam receiv number packet antenna network
+	System Chosen Intruder Word = snr
+	True Intruder Word = compon
+
+[0.0] element stream estim window item data detect epsilon sampl bound algorithm
+	System Chosen Intruder Word = epsilon
+	True Intruder Word = detect
+
+[0.0] system time surrog variabl servic propag state domain constraint regular replica
+	System Chosen Intruder Word = replica
+	True Intruder Word = regular
+
+[1.0] decod frame probabl privaci set knowledg avatar distribut user algorithm adversari
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] detect bluetooth system antenna bluetooth_devic mobil predict power devic signatur applic
+	System Chosen Intruder Word = bluetooth_devic
+	True Intruder Word = antenna
+
+[1.0] point call prolog support tabl program answer claus avatar analysi prefer
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] work unit time system simul messag feder state distribut regular unit_work
+	System Chosen Intruder Word = unit_work
+	True Intruder Word = regular
+
+[0.0] hand time graph tree tra distribut comput number camera agent algorithm
+	System Chosen Intruder Word = tra
+	True Intruder Word = camera
+
+[0.0] abstract defin set semant relat detect interpret llbracket languag type grammar
+	System Chosen Intruder Word = llbracket
+	True Intruder Word = detect
+
+[0.0] time system host alert partit distribut circuit camera load number algorithm
+	System Chosen Intruder Word = partit
+	True Intruder Word = camera
+
+[1.0] prime queri equival set simul_system bag semant variabl relat aggreg databas
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] prime model_univers model univers set camera domain constraint chase goal solv
+	System Chosen Intruder Word = model_univers
+	True Intruder Word = camera
+
+[1.0] angel time rate connect delai tcp game packet flow network simul_system
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] replic sens fidel system updat item crwl turnstileleft low replica version
+	System Chosen Intruder Word = crwl
+	True Intruder Word = sens
+
+[1.0] system model client error mobil domain server number geopag simul_system applic
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] point antenna time node wireless traffic client delai packet network mesh
+	System Chosen Intruder Word = client
+	True Intruder Word = antenna
+
+[0.0] time support scheme itemset dataset state random signific version number approxim
+	System Chosen Intruder Word = itemset
+	True Intruder Word = version
+
+[1.0] abstract point model node system simul graph behavior flexibl graph_term simul_system
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] time antenna locat traffic vehicl speed segment intersect data road trafc
+	System Chosen Intruder Word = trafc
+	True Intruder Word = antenna
+
+[1.0] error avatar depend cell infer data claus repair spreadsheet similar formula
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] transmit wireless rate link power receiv channel regular transmiss network algorithm
+	System Chosen Intruder Word = algorithm
+	True Intruder Word = regular
+
+[0.0] input wifi client wui report data version html web user function
+	System Chosen Intruder Word = wui
+	True Intruder Word = version
+
+[1.0] content page mobil brows context commun web adapt imag user antenna
+	System Chosen Intruder Word = antenna
+	True Intruder Word = antenna
+
+[1.0] queri complex tupl camera set relat data problem databas bound complet
+	System Chosen Intruder Word = camera
+	True Intruder Word = camera
+
+[1.0] topolog real model regular simul router link path bgp rout network
+	System Chosen Intruder Word = regular
+	True Intruder Word = regular
+
+[0.0] bluetooth system monitor blue monarch blue_monarch data devic packet sens network
+	System Chosen Intruder Word = blue_monarch
+	True Intruder Word = sens
+
+[1.0] control valid system bitmap compon tag combin polici access simul_system compil
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] condit pattern avatar term program set rule class_type class dictionari match
+	System Chosen Intruder Word = class_type
+	True Intruder Word = avatar
+
+[1.0] flash detect rfid time reader tag program scan simul_system object antenna
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[1.0] atom handoff integr form set guard rule constraint tgd repair databas
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] bit memori instruct address gener regist code stack cue regular compil
+	System Chosen Intruder Word = regist
+	True Intruder Word = regular
+
+[0.0] site time model cpd messag semant orc cxd regular ctd function
+	System Chosen Intruder Word = cxd
+	True Intruder Word = regular
+
+[1.0] time respons updat transact refer delai page string qualiti server handoff
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] automaton tree accept detect nest state automata word languag avatar nest_word
+	System Chosen Intruder Word = nest_word
+	True Intruder Word = detect
+
+[1.0] worm model avatar time simul rate infect tcp packet flow network
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] inform test camera oper tupl set case_test comput case posit function
+	System Chosen Intruder Word = case_test
+	True Intruder Word = camera
+
+[0.0] time univers pattern search camera sml class method implement imag net
+	System Chosen Intruder Word = sml
+	True Intruder Word = univers
+
+[0.0] process detect probabl session set comput commun number kei instanc algorithm
+	System Chosen Intruder Word = session
+	True Intruder Word = detect
+
+[0.0] abstract termin gpgpu narrow linear sort order term rewrit rule comput
+	System Chosen Intruder Word = narrow
+	True Intruder Word = gpgpu
+
+[0.0] pattern micro search protein detect approach switch local polici blog posit
+	System Chosen Intruder Word = protein
+	True Intruder Word = detect
+
+[0.0] prime node document version tree satisfi data constraint xml problem label
+	System Chosen Intruder Word = prime
+	True Intruder Word = version
+
+[0.0] process parallel time model simul univers event comput perform execut network
+	System Chosen Intruder Word = parallel
+	True Intruder Word = univers
+
+[0.0] system client task program thread schedul server integr implement user function
+	System Chosen Intruder Word = schedul
+	True Intruder Word = integr
+
+[0.0] prioriti program rule semant cmq context state constraint goal sens chr
+	System Chosen Intruder Word = cmq
+	True Intruder Word = sens
+
+[1.0] energi call system time client task interfac avatar power server network
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] process prime effect program rule relat integr constraint class method analysi
+	System Chosen Intruder Word = prime
+	True Intruder Word = integr
+
+[0.0] time player client antenna game_player distribut plai server game_server game network
+	System Chosen Intruder Word = game_player
+	True Intruder Word = antenna
+
+[0.0] suspend pad time frame state data user horatio resum network regular
+	System Chosen Intruder Word = horatio
+	True Intruder Word = regular
+
+[0.0] process result proxi client updat state version action approach server object
+	System Chosen Intruder Word = proxi
+	True Intruder Word = version
+
+[0.0] stream compon memori set respond data commun problem number bound algorithm
+	System Chosen Intruder Word = stream
+	True Intruder Word = compon
+
+[0.0] queri order pattern pcf variabl context subgoal detect execut bind function
+	System Chosen Intruder Word = pcf
+	True Intruder Word = detect
+
+[0.0] node check pattern edg data match kdc kei_node algorithm top univers
+	System Chosen Intruder Word = kei_node
+	True Intruder Word = univers
+
+[0.0] sensor time node system proven annot data drill univers modul semir
+	System Chosen Intruder Word = semir
+	True Intruder Word = univers
+
+[1.0] process defin model system simul manag base event_process constraint object agent
+	System Chosen Intruder Word = event_process
+	True Intruder Word = event_process
+
+[0.0] solut queri data_exchang set data answer map target exchang gpgpu instanc
+	System Chosen Intruder Word = data_exchang
+	True Intruder Word = gpgpu
+
+[1.0] authent protocol secur messag data devic group user exchang kei handoff
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] memori time chunk system page regular oper state data checkpoint log
+	System Chosen Intruder Word = checkpoint
+	True Intruder Word = regular
+
+[1.0] process cheat secur antenna client task mobil guard data report attack
+	System Chosen Intruder Word = antenna
+	True Intruder Word = antenna
+
+[1.0] point detect system time pin strength avatar scan signal posit network
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[1.0] process time model simul_system system event_process event messag processor warp algorithm
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[1.0] aoi node protocol quanti entiti testb pir er_quanti event_process posit er
+	System Chosen Intruder Word = event_process
+	True Intruder Word = event_process
+
+[1.0] sensor system time monitor mobil data context activ user network gpgpu
+	System Chosen Intruder Word = gpgpu
+	True Intruder Word = gpgpu
+
+[0.0] point wireless locat time client connect ap access user network gpgpu
+	System Chosen Intruder Word = ap
+	True Intruder Word = gpgpu
+
+[0.0] region time model system compil credenti success_type set infer synthesi sw
+	System Chosen Intruder Word = success_type
+	True Intruder Word = compil
+
+[0.0] prime system system_type avatar program data languag object type express function
+	System Chosen Intruder Word = system_type
+	True Intruder Word = avatar
+
+[0.0] energi control system avatar node time capacitor symbiot power simul_system leakag
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = avatar
+
+[0.0] result rank probabl tupl set relat score join bound algorithm regular
+	System Chosen Intruder Word = score
+	True Intruder Word = regular
+
+[0.0] system system_type antenna form term program variabl infer code type algorithm
+	System Chosen Intruder Word = system_type
+	True Intruder Word = antenna
+
+[1.0] time model system event cluster cach event_process object net transit instanc
+	System Chosen Intruder Word = event_process
+	True Intruder Word = event_process
+
+[1.0] pebbl node tree order regular mso languag simul_system express logic xpath
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] acycl time tree detect set width relat tgd problem egd instanc
+	System Chosen Intruder Word = tgd
+	True Intruder Word = detect
+
+[0.0] prime prime_turnstileleft order compon term deriv rewrit rule context turnstileleft nomin
+	System Chosen Intruder Word = prime_turnstileleft
+	True Intruder Word = compon
+
+[0.0] time system client select server interact method step detect zone algorithm
+	System Chosen Intruder Word = zone
+	True Intruder Word = detect
+
+[0.0] node tree program art detect mapsto comput slice debug function algorithm
+	System Chosen Intruder Word = mapsto
+	True Intruder Word = detect
+
+[1.0] phone system locat mobil experi simul_system particip devic user studi applic
+	System Chosen Intruder Word = simul_system
+	True Intruder Word = simul_system
+
+[0.0] process emit model seizur reactiv camera signal channel instant gpgpu gpu
+	System Chosen Intruder Word = seizur
+	True Intruder Word = camera
+
+[1.0] statement condit model variabl state rst claus nition reduct calculu camera
+	System Chosen Intruder Word = camera
+	True Intruder Word = camera
+
+[1.0] node time tree set data state compil xml valu express xpath
+	System Chosen Intruder Word = compil
+	True Intruder Word = compil
+
+[1.0] node graph program rule variabl comput case express logic function string
+	System Chosen Intruder Word = string
+	True Intruder Word = string
+
+[1.0] locat system secur antenna privaci report data attack devic user applic
+	System Chosen Intruder Word = antenna
+	True Intruder Word = antenna
+
+[1.0] point wireless time client connect ap data perform access network logic_program
+	System Chosen Intruder Word = logic_program
+	True Intruder Word = logic_program
+
+[0.0] bit call memori data code case stack applic compil function arrai
+	System Chosen Intruder Word = compil
+	True Intruder Word = arrai
+
+[0.0] time program set rule logic_program predic claus analysi execut logic compon
+	System Chosen Intruder Word = logic_program
+	True Intruder Word = compon
+
+[1.0] queri index time node tree bluetooth structur set string problem log
+	System Chosen Intruder Word = bluetooth
+	True Intruder Word = bluetooth
+
+[0.0] prime queri scan tupl set variabl relat databas bound kei algorithm
+	System Chosen Intruder Word = prime
+	True Intruder Word = scan
+
+[0.0] point queri stream set data cluster detect epsilon problem approxim algorithm
+	System Chosen Intruder Word = epsilon
+	True Intruder Word = detect
+
+[1.0] authent protocol time secur messag speed encrypt devic attack packet kei
+	System Chosen Intruder Word = speed
+	True Intruder Word = speed
+
+[0.0] time system task servic data state net execut applic detect replica
+	System Chosen Intruder Word = replica
+	True Intruder Word = detect
+
+[0.0] real model time simul traffic delai packet flow agent network arrai
+	System Chosen Intruder Word = agent
+	True Intruder Word = arrai
+
+[0.0] process detect system frame page sound mobil commun web ambient scan
+	System Chosen Intruder Word = ambient
+	True Intruder Word = scan
+
+[0.0] defin receiv store prioriti program rule semant variabl data constraint chr
+	System Chosen Intruder Word = chr
+	True Intruder Word = receiv
+
+[1.0] prime order term rewrit program antenna set rule variabl logic substitut
+	System Chosen Intruder Word = antenna
+	True Intruder Word = antenna
+
+[0.0] time locat traffic vehicl speed segment arrai intersect data cluster road
+	System Chosen Intruder Word = cluster
+	True Intruder Word = arrai
+
+[0.0] rfid time system tag event data object arrai user antenna applic
+	System Chosen Intruder Word = event
+	True Intruder Word = arrai
+
+[0.0] time player client game_player antenna distribut plai server game network world
+	System Chosen Intruder Word = game_player
+	True Intruder Word = antenna
+
+[1.0] queri model probabl tupl set answer scan comput problem probabilist algorithm
+	System Chosen Intruder Word = scan
+	True Intruder Word = scan
+
+[0.0] content call system time search cell arrai devic imag user network
+	System Chosen Intruder Word = cell
+	True Intruder Word = arrai
+
+[1.0] queri result tupl privaci set data antenna relat databas bound algorithm
+	System Chosen Intruder Word = antenna
+	True Intruder Word = antenna
+
+[0.0] prime system system_type program variabl class languag devic type express function
+	System Chosen Intruder Word = system_type
+	True Intruder Word = devic
+
+[0.0] bluetooth system bluetooth_devic blue mobil data devic_mobil devic compon user applic
+	System Chosen Intruder Word = bluetooth_devic
+	True Intruder Word = compon
+
+[0.0] queri model equival set bag scan semant relat constraint chase databas
+	System Chosen Intruder Word = chase
+	True Intruder Word = scan
+
+[1.0] system monitor select data number air bluetooth flow packet activ sampl
+	System Chosen Intruder Word = bluetooth
+	True Intruder Word = bluetooth
+
+[0.0] fidel system updat proxi entiti mobil item data arrai kiosk user
+	System Chosen Intruder Word = fidel
+	True Intruder Word = arrai
+
+[1.0] parallel particl result time system model simul bluetooth distribut comput algorithm
+	System Chosen Intruder Word = bluetooth
+	True Intruder Word = bluetooth
+
+[0.0] rate link track receiv adapt evalu cost filter throughput bluetooth algorithm
+	System Chosen Intruder Word = track
+	True Intruder Word = bluetooth
+
+[0.0] estim node stream window predict random data bluetooth walk sampl algorithm
+	System Chosen Intruder Word = walk
+	True Intruder Word = bluetooth
+
+[0.0] element input form program wui data speed type insert arrai function
+	System Chosen Intruder Word = wui
+	True Intruder Word = speed
+
+[0.0] schema prime compon invers map_schema set map target tgd sourc instanc
+	System Chosen Intruder Word = map_schema
+	True Intruder Word = compon
+
+[0.0] peer system player string mobil game devic develop applic network design
+	System Chosen Intruder Word = player
+	True Intruder Word = string
+
+[0.0] process pebbl time program thread reactiv comput signal valu devic instant
+	System Chosen Intruder Word = pebbl
+	True Intruder Word = devic
+
+[1.0] system logic_program locat mobil strength signal_strength commun signal measur user posit
+	System Chosen Intruder Word = logic_program
+	True Intruder Word = logic_program
+
+[1.0] sensor antenna detect system mobil behavior data state context user applic
+	System Chosen Intruder Word = antenna
+	True Intruder Word = antenna
+
+[1.0] sensor node compil time system wireless protocol rang data base network
+	System Chosen Intruder Word = compil
+	True Intruder Word = compil
+
+[1.0] node compil tree set state data path languag problem express xpath
+	System Chosen Intruder Word = compil
+	True Intruder Word = compil
+
+[0.0] model pattern program set variabl state spreadsheet horatio sw formula bluetooth
+	System Chosen Intruder Word = horatio
+	True Intruder Word = bluetooth
+
+[1.0] virtual model time logic_program interest messag distribut base number world algorithm
+	System Chosen Intruder Word = logic_program
+	True Intruder Word = logic_program
+
+[1.0] flash logic_program time system client updat program state server network databas
+	System Chosen Intruder Word = logic_program
+	True Intruder Word = logic_program
+
+[0.0] solut queri data_exchang set data target map answer antenna exchang instanc
+	System Chosen Intruder Word = data_exchang
+	True Intruder Word = antenna
+
+[1.0] point time stream model logic_program tabl comput tcp user cue applic
+	System Chosen Intruder Word = logic_program
+	True Intruder Word = logic_program
+
+[0.0] queri node complex tree structur root set compon relat problem xml
+	System Chosen Intruder Word = tree
+	True Intruder Word = compon
+
+[1.0] process parallel time simul proxi event messag comput perform execut processor
+	System Chosen Intruder Word = proxi
+	True Intruder Word = proxi
+
+[0.0] energi speed node wireless time system interfac data power network batteri
+	System Chosen Intruder Word = node
+	True Intruder Word = speed
+
+[0.0] work unit time system simul client messag feder compil comput unit_work
+	System Chosen Intruder Word = unit_work
+	True Intruder Word = compil
+
+[0.0] time model system simul compon composit messag servic web polici arrai
+	System Chosen Intruder Word = composit
+	True Intruder Word = arrai
+
+[0.0] phone share system node locat mobil file data particip user applic
+	System Chosen Intruder Word = particip
+	True Intruder Word = node
+
+[1.0] topolog model time simul tabl path bgp string smartphon rout network
+	System Chosen Intruder Word = string
+	True Intruder Word = string
+
+[0.0] work fprime system form task drill receiv worker comput workflow complet
+	System Chosen Intruder Word = fprime
+	True Intruder Word = receiv
+
+[0.0] worm host infect antenna variabl propag domain constraint scan rout network
+	System Chosen Intruder Word = rout
+	True Intruder Word = antenna
+
+[0.0] control level attribut consist strategi local case posit design internet synchron
+	System Chosen Intruder Word = synchron
+	True Intruder Word = internet
+
+[0.0] energi consumpt wireless save interfac power radio network batteri integr idl
+	System Chosen Intruder Word = idl
+	True Intruder Word = integr
+
+[0.0] termin sort symbol order avatar term tr rewrit rule variabl substitut
+	System Chosen Intruder Word = tr
+	True Intruder Word = avatar
+
+[1.0] condit defin formal equival gpgpu set definit relat properti express exist
+	System Chosen Intruder Word = gpgpu
+	True Intruder Word = gpgpu
+
+[0.0] authent member secur data spate group ltw network exchang kei avatar
+	System Chosen Intruder Word = ltw
+	True Intruder Word = avatar
+
+[0.0] process element univers macro context cmq featur mon effici transit grammar
+	System Chosen Intruder Word = cmq
+	True Intruder Word = univers
+
+[0.0] replic entiti prioriti set select knowledg portfolio distribut problem perfect statu
+	System Chosen Intruder Word = portfolio
+	True Intruder Word = perfect
+
+[0.0] form guard distribut problem pack nfa gpgpu fragment complet instanc formula
+	System Chosen Intruder Word = nfa
+	True Intruder Word = gpgpu
+
+[0.0] replic interv fidel comma updat polyjuz item high low replica version
+	System Chosen Intruder Word = polyjuz
+	True Intruder Word = interv
+
+[0.0] project linear pcf oid list rrbracket llbracket relat subtyp multimap function
+	System Chosen Intruder Word = rrbracket
+	True Intruder Word = list
+
+[0.0] order oper strategi box evalu flow adapt geopag cost filter integr
+	System Chosen Intruder Word = geopag
+	True Intruder Word = integr
+
+[0.0] valid bom compon composit semant lscript list compos subgoal perfect compat
+	System Chosen Intruder Word = bom
+	True Intruder Word = list
+
+[0.0] weight rate count camera adjust branch flow packet creat imag video
+	System Chosen Intruder Word = packet
+	True Intruder Word = creat
+
+[1.0] atom univers set depend tgd constraint chase core egd databas handoff
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] point metric lscript distanc data avatar cluster summationdisplai nearest vextenddoubl similar
+	System Chosen Intruder Word = summationdisplai
+	True Intruder Word = avatar
+
+[0.0] automaton tree accept nest string state automata path word interv xpath
+	System Chosen Intruder Word = xpath
+	True Intruder Word = interv
+
+[0.0] haptic time scheme student delai method output group handoff forc network
+	System Chosen Intruder Word = haptic
+	True Intruder Word = handoff
+
+[0.0] memori chunk oper detect page state data block kernel log alloc
+	System Chosen Intruder Word = chunk
+	True Intruder Word = detect
+
+[1.0] energi regular control capacitor cycl power solar harvest storag leakag batteri
+	System Chosen Intruder Word = regular
+	True Intruder Word = regular
+
+[0.0] traffic vehicl speed segment intersect creat pothol data road trafc gp
+	System Chosen Intruder Word = trafc
+	True Intruder Word = creat
+
+[0.0] aoi crd entiti cpd pir cxd construct internet extract ctd function
+	System Chosen Intruder Word = cxd
+	True Intruder Word = internet
+
+[0.0] site regular call time program rewrit semant rule orc polynomi size
+	System Chosen Intruder Word = orc
+	True Intruder Word = regular
+
+[0.0] multiset order inequ bag variabl subgoal datalog list predic problem bind
+	System Chosen Intruder Word = bag
+	True Intruder Word = list
+
+[0.0] rate client loss power beam receiv packet creat mbp throughput algorithm
+	System Chosen Intruder Word = mbp
+	True Intruder Word = creat
+
+[0.0] solut univers optim set problem valu approxim cost hard algorithm function
+	System Chosen Intruder Word = approxim
+	True Intruder Word = univers
+
+[0.0] system gener int rule univers infer definit polymorph turnstileleft type recurs
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = univers
+
+[0.0] point prune gener tabl answer predic languag list frst prefer logic
+	System Chosen Intruder Word = frst
+	True Intruder Word = list
+
+[0.0] cheat detect input client mobil guard data game attack internet protect
+	System Chosen Intruder Word = game
+	True Intruder Word = internet
+
+[0.0] inform locat phone system privaci vtl univers attack trip blog gp
+	System Chosen Intruder Word = vtl
+	True Intruder Word = univers
+
+[0.0] fals node mef graph tree mapsto art creat slice debug reduct
+	System Chosen Intruder Word = mapsto
+	True Intruder Word = creat
+
+[0.0] bnc frame regular page ssa link context block web cmo algorithm
+	System Chosen Intruder Word = ssa
+	True Intruder Word = regular
+
+[0.0] slingshot updat univers surrog proxi refer delai servic cach hotspot replica
+	System Chosen Intruder Word = slingshot
+	True Intruder Word = univers
+
+[0.0] worm integr host simul address infect propag scan network rout patch
+	System Chosen Intruder Word = worm
+	True Intruder Word = integr
+
+[0.0] schema complex decid data relat languag xml valu express integr logic
+	System Chosen Intruder Word = decid
+	True Intruder Word = integr
+
+[1.0] phone bluetooth perfect support mobil servic devic user displai provid applic
+	System Chosen Intruder Word = perfect
+	True Intruder Word = perfect
+
+[0.0] linear detect connect variabl item context data list substitut logic formula
+	System Chosen Intruder Word = substitut
+	True Intruder Word = detect
+
+[0.0] process parallel observ mapsto avatar rule cpu box evalu gpgpu gpu
+	System Chosen Intruder Word = mapsto
+	True Intruder Word = avatar
+
+[1.0] content avatar inform time search set select base data imag user
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] process phone speech detect frame audio sound classif sens voic classifi
+	System Chosen Intruder Word = classif
+	True Intruder Word = detect
+
+[0.0] fprime internet region effect sprime int lscript llbracket lscriptprim read turnstileleft
+	System Chosen Intruder Word = sprime
+	True Intruder Word = internet
+
+[0.0] tprime squar rewrit program rule sol crwl turnstileleft express goal regular
+	System Chosen Intruder Word = tprime
+	True Intruder Word = regular
+
+[0.0] bit bluetooth transfer blue pair monarch predict receiv devic packet univers
+	System Chosen Intruder Word = monarch
+	True Intruder Word = univers
+
+[0.0] time simul failur messag event detect feder fault execut rti hla
+	System Chosen Intruder Word = hla
+	True Intruder Word = detect
+
+[0.0] region updat messag interest manag base regular number object posit move
+	System Chosen Intruder Word = region
+	True Intruder Word = regular
+
+[0.0] analys statement point increment support program rule answer relat perfect analysi
+	System Chosen Intruder Word = increment
+	True Intruder Word = perfect
+
+[0.0] angel empir tra classif quak game creat packet flow network classifi
+	System Chosen Intruder Word = tra
+	True Intruder Word = creat
+
+[0.0] share phone error file modifi particip api access integr applic mode
+	System Chosen Intruder Word = particip
+	True Intruder Word = integr
+
+[1.0] work process inform gpgpu present specif requir paper base shown provid
+	System Chosen Intruder Word = gpgpu
+	True Intruder Word = gpgpu
+
+[0.0] mn submit ap task report worker sens workflow internet anoni applic
+	System Chosen Intruder Word = anoni
+	True Intruder Word = internet
+
+[0.0] child perfect fid specif tree dom reason context parent list logic
+	System Chosen Intruder Word = fid
+	True Intruder Word = perfect
+
+[0.0] system includ univers singl discuss base comput approach implement applic design
+	System Chosen Intruder Word = singl
+	True Intruder Word = univers
+
+[0.0] time page set univers data comput number problem space step algorithm
+	System Chosen Intruder Word = page
+	True Intruder Word = univers
+
+[0.0] degre time graph edg vertic page path distribut univers length qualiti
+	System Chosen Intruder Word = page
+	True Intruder Word = univers
+
+[0.0] content system wireless station alert creat pet deploy media network fire
+	System Chosen Intruder Word = pet
+	True Intruder Word = creat
+
+[0.0] atom level term deriv creat rewrit rule mapsto turnstileleft nomin logic
+	System Chosen Intruder Word = mapsto
+	True Intruder Word = creat
+
+[0.0] interv stamp succ time handoff system successor pattern set axiom instanc
+	System Chosen Intruder Word = succ
+	True Intruder Word = handoff
+
+[0.0] content detect fidel page kbp predict context commun adapt imag trafc
+	System Chosen Intruder Word = trafc
+	True Intruder Word = detect
+
+[0.0] ofici system decid list petri sml prosecutor object net transit compil
+	System Chosen Intruder Word = ofici
+	True Intruder Word = list
+
+[0.0] time stream model probabl internet creat event data speci applic occur
+	System Chosen Intruder Word = speci
+	True Intruder Word = internet
+
+[0.0] detect rfid list locat person reader tag read scan object antenna
+	System Chosen Intruder Word = antenna
+	True Intruder Word = list
+
+[0.0] time client proxi respons connect architectur delai latenc creat server network
+	System Chosen Intruder Word = architectur
+	True Intruder Word = creat
+
+[1.0] field refer string write class method languag list object handoff instanc
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] peer verif queue creat input composit messag servic web sw bound
+	System Chosen Intruder Word = sw
+	True Intruder Word = creat
+
+[0.0] virtual erent lag tion action commun detect interact game world network
+	System Chosen Intruder Word = erent
+	True Intruder Word = detect
+
+[1.0] increas result integr time gener experi set perform number high compar
+	System Chosen Intruder Word = integr
+	True Intruder Word = integr
+
+[0.0] min control edg univers root testb answer movi approxim dqf top
+	System Chosen Intruder Word = dqf
+	True Intruder Word = univers
+
+[1.0] durat time session trace dai measur handoff hour activ period instanc
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[1.0] particl discret perfect time equat integr simul cell method interact step
+	System Chosen Intruder Word = perfect
+	True Intruder Word = perfect
+
+[0.0] solver prioriti rule variabl semant propag creat domain constraint solv chr
+	System Chosen Intruder Word = chr
+	True Intruder Word = creat
+
+[0.0] atom list program set rule semant interpret constraint predic claus logic
+	System Chosen Intruder Word = atom
+	True Intruder Word = list
+
+[0.0] system televis term infer intersect constraint expans list unifi skeleton readback
+	System Chosen Intruder Word = readback
+	True Intruder Word = list
+
+[1.0] queri conjunct result tupl set relat answer problem databas avatar complet
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] element bit node tree bitmap lscript string insert space regular log
+	System Chosen Intruder Word = lscript
+	True Intruder Word = regular
+
+[1.0] point locat estim error rang strength gpgpu signal measur local posit
+	System Chosen Intruder Word = gpgpu
+	True Intruder Word = gpgpu
+
+[0.0] control input updat global state current local creat initi transit move
+	System Chosen Intruder Word = input
+	True Intruder Word = creat
+
+[0.0] child pebbl creat node tree root regular test label subtre xpath
+	System Chosen Intruder Word = pebbl
+	True Intruder Word = creat
+
+[0.0] decod time frame collabor task handoff schedul tier triag devic video
+	System Chosen Intruder Word = tier
+	True Intruder Word = handoff
+
+[1.0] point model avatar level gener repres paramet data comput valu match
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] bit machin instruct address regular tag regist addr code stack compil
+	System Chosen Intruder Word = addr
+	True Intruder Word = regular
+
+[0.0] peer virtual region architectur distribut scalabl avatar network zone integr world
+	System Chosen Intruder Word = peer
+	True Intruder Word = integr
+
+[0.0] suspend softwar virtual machin time isr user kiosk horatio regular resum
+	System Chosen Intruder Word = horatio
+	True Intruder Word = regular
+
+[0.0] queri index detect equival term bag set semant qprime aggreg arrai
+	System Chosen Intruder Word = qprime
+	True Intruder Word = detect
+
+[0.0] solut schema data target detect map answer sourc exchang null instanc
+	System Chosen Intruder Word = map
+	True Intruder Word = detect
+
+[0.0] call free cover test int detect case coverag ihi function collect
+	System Chosen Intruder Word = ihi
+	True Intruder Word = detect
+
+[0.0] criteria error templat equival interest cell dve sum spreadsheet creat formula
+	System Chosen Intruder Word = dve
+	True Intruder Word = creat
+
+[1.0] detect worm proxi behavior messag virus smartphon viru signatur gpgpu malwar
+	System Chosen Intruder Word = gpgpu
+	True Intruder Word = gpgpu
+
+[0.0] virtual transduc stream quanti gener tupl internet relat publish bound er
+	System Chosen Intruder Word = er
+	True Intruder Word = internet
+
+[0.0] stream retransmiss delai latenc handoff modifi tcp thin packet sctp applic
+	System Chosen Intruder Word = thin
+	True Intruder Word = handoff
+
+[0.0] control system locat univers tupl physic symbiot mote context radiat pervas
+	System Chosen Intruder Word = tupl
+	True Intruder Word = univers
+
+[1.0] topolog protocol simul router avatar experi link bgp path rout network
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[1.0] abstract condit verif point behavior avatar select target properti flexibl step
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] argument call regular oper program languag list valu evalu express function
+	System Chosen Intruder Word = list
+	True Intruder Word = regular
+
+[0.0] input form string wui data html web social type script user
+	System Chosen Intruder Word = wui
+	True Intruder Word = social
+
+[0.0] abstract awr unionmulti pnode base impli john confgur perfect evalu stack
+	System Chosen Intruder Word = unionmulti
+	True Intruder Word = perfect
+
+[0.0] exp semant relat valu label env avatar code logic alloc compil
+	System Chosen Intruder Word = env
+	True Intruder Word = avatar
+
+[1.0] process parallel time simul optimist event comput perform rollback handoff execut
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] cellular notifi call phone creat sip cell interfac smartphon network step
+	System Chosen Intruder Word = notifi
+	True Intruder Word = creat
+
+[1.0] estim memori probabl item random gpgpu distribut method approxim walk sampl
+	System Chosen Intruder Word = gpgpu
+	True Intruder Word = gpgpu
+
+[0.0] transform cprime sqlp lynx claus pai qualif internet qualifi similar qlp
+	System Chosen Intruder Word = cprime
+	True Intruder Word = internet
+
+[0.0] tupl privaci data score pbrj join internet bound algorithm adversari instanc
+	System Chosen Intruder Word = pbrj
+	True Intruder Word = internet
+
+[0.0] authent protocol secur address messag trust encrypt regular ferio attack kei
+	System Chosen Intruder Word = ferio
+	True Intruder Word = regular
+
+[1.0] point wireless connect oper data commun mac resum access internet network
+	System Chosen Intruder Word = resum
+	True Intruder Word = resum
+
+[0.0] queri perfect point index time probabl rang log cost skylin instanc
+	System Chosen Intruder Word = skylin
+	True Intruder Word = perfect
+
+[0.0] protocol delai isp multicast resum receiv group neuron network potenti size
+	System Chosen Intruder Word = neuron
+	True Intruder Word = resum
+
+[1.0] inform wireless monitor client address perfect offic request problem air network
+	System Chosen Intruder Word = perfect
+	True Intruder Word = perfect
+
+[0.0] support probabl itemset dataset test integr signific random mine discoveri statist
+	System Chosen Intruder Word = itemset
+	True Intruder Word = integr
+
+[1.0] fals detect seizur patient perfect featur data train channel detector classifi
+	System Chosen Intruder Word = perfect
+	True Intruder Word = perfect
+
+[1.0] document integr implic updat satisfi handoff data constraint problem activ instanc
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] system term rule normal semant context induct reduct substitut calculu creat
+	System Chosen Intruder Word = induct
+	True Intruder Word = creat
+
+[1.0] field experi social gpgpu survei particip drill commun question studi user
+	System Chosen Intruder Word = gpgpu
+	True Intruder Word = gpgpu
+
+[1.0] real time traffic simul list rate delai link flow packet network
+	System Chosen Intruder Word = list
+	True Intruder Word = list
+
+[0.0] interv error vector item distribut epsilon list fepsilon approxim bound databas
+	System Chosen Intruder Word = fepsilon
+	True Intruder Word = list
+
+[1.0] result obtain order gener variabl denot comput case note function handoff
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] erent oper depend nite rst data speci gpgpu nition cation ned
+	System Chosen Intruder Word = speci
+	True Intruder Word = gpgpu
+
+[0.0] real system area behavior thread suffer team fault regular stack applic
+	System Chosen Intruder Word = thread
+	True Intruder Word = regular
+
+[0.0] prime region bitmap term tag variabl environ turnstileleft compil handoff function
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = handoff
+
+[1.0] node protocol wireless mobil link deploy receiv perfect packet network rout
+	System Chosen Intruder Word = perfect
+	True Intruder Word = perfect
+
+[0.0] center statement point assign median radiu metric variabl cluster number handoff
+	System Chosen Intruder Word = median
+	True Intruder Word = handoff
+
+[0.0] work unit system messag aurora sim comput worker regular perform cach
+	System Chosen Intruder Word = aurora
+	True Intruder Word = regular
+
+[0.0] probabl tupl set regular relat answer data comput probabilist world semir
+	System Chosen Intruder Word = semir
+	True Intruder Word = regular
+
+[0.0] queri univers sql updat curat proven color annot data cedar databas
+	System Chosen Intruder Word = cedar
+	True Intruder Word = univers
+
+[0.0] detect system error movement univers track scan measur signal posit gp
+	System Chosen Intruder Word = track
+	True Intruder Word = univers
+
+[0.0] condit placement share transact delai wire pre rel throughput univers mesh
+	System Chosen Intruder Word = transact
+	True Intruder Word = univers
+
+[1.0] flash time search structur file data block regular train modul network
+	System Chosen Intruder Word = regular
+	True Intruder Word = regular
+
+[0.0] call time machin instruct program code analysi execut cost size univers
+	System Chosen Intruder Word = size
+	True Intruder Word = univers
+
+[0.0] schema prime invers equival maximum map tgd sourc instanc recoveri univers
+	System Chosen Intruder Word = tgd
+	True Intruder Word = univers
+
+[0.0] energi amino acid search structur protein proxim task integr fold cue
+	System Chosen Intruder Word = proxim
+	True Intruder Word = integr
+
+[0.0] schema cover attribut color structur decomposit width univers relat treewidth kei
+	System Chosen Intruder Word = width
+	True Intruder Word = univers
+
+[1.0] process control system secur grant oper combin polici regular access deni
+	System Chosen Intruder Word = regular
+	True Intruder Word = regular
+
+[0.0] open pattern check data expr avatar languag match express main compil
+	System Chosen Intruder Word = match
+	True Intruder Word = avatar
+
+[0.0] transmit wireless rate frame power internet signal receiv channel transmiss network
+	System Chosen Intruder Word = frame
+	True Intruder Word = internet
+
+[0.0] simul compon architectur manag servic interfac base web framework univers applic
+	System Chosen Intruder Word = architectur
+	True Intruder Word = univers
+
+[0.0] element stream window bucket counter data slide detect log bound decai
+	System Chosen Intruder Word = bucket
+	True Intruder Word = detect
+
+[0.0] time effect check credenti trace infer link constraint analysi dynam detect
+	System Chosen Intruder Word = credenti
+	True Intruder Word = detect
+
+[0.0] certif handoff pattern program set rule sum method implement logic auth
+	System Chosen Intruder Word = auth
+	True Intruder Word = handoff
+
+[0.0] point hando handoff client ap associ qualiti scan social access throughput
+	System Chosen Intruder Word = hando
+	True Intruder Word = social
+
+[0.0] process emit program thread reactiv schedul internet signal valu execut instant
+	System Chosen Intruder Word = thread
+	True Intruder Word = internet
+
+[0.0] flash poll compon page request flashproxi perfect browser web activ user
+	System Chosen Intruder Word = flashproxi
+	True Intruder Word = perfect
+
+[1.0] softwar project support gener tool environ develop internet code applic design
+	System Chosen Intruder Word = internet
+	True Intruder Word = internet
+
+[0.0] solut control configur detect time annot program unfold specialis evalu partial
+	System Chosen Intruder Word = specialis
+	True Intruder Word = detect
+
+[0.0] timestamp virtual regular event messag lp gvt processor lookahead synchron network
+	System Chosen Intruder Word = gvt
+	True Intruder Word = regular
+
+[0.0] ssv system simul level environ distribut cycl coupl alp list agent
+	System Chosen Intruder Word = ssv
+	True Intruder Word = list
+
+[0.0] prime process session univers pair wtsol primeprim commun turnstileleft ambient channel
+	System Chosen Intruder Word = wtsol
+	True Intruder Word = univers
+
+[0.0] prime process univers condit oper rule semant class constraint turnstileleft instanc
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = univers
+
+[1.0] node time attribut constant assum test repres set calcul internet evalu
+	System Chosen Intruder Word = internet
+	True Intruder Word = internet
+
+[1.0] input host simul partit avatar distribut circuit load number modul gate
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[1.0] player multiplay session onlin predict handoff distribut plai server game world
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] difier mobil trace data build regular rout flrst network soft destin
+	System Chosen Intruder Word = difier
+	True Intruder Word = regular
+
+[1.0] replic time frame transact pin delai data read avatar null replica
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] sensor detect time monitor oper data mote univers activ sens sampl
+	System Chosen Intruder Word = mote
+	True Intruder Word = univers
+
+[0.0] reaction relat discret time system model simul integr event method step
+	System Chosen Intruder Word = event
+	True Intruder Word = relat
+
+[1.0] atom model internet program semant rule interpret predic claus logic formula
+	System Chosen Intruder Word = internet
+	True Intruder Word = internet
+
+[0.0] emit program thread semant reactiv orc avatar signal languag express instant
+	System Chosen Intruder Word = orc
+	True Intruder Word = avatar
+
+[1.0] process parallel time simul event state comput perform processor ferio execut
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[0.0] bnc curat form detect entiti proven color annot ssa label semir
+	System Chosen Intruder Word = semir
+	True Intruder Word = detect
+
+[1.0] system support compon manag servic interfac implement detect develop applic design
+	System Chosen Intruder Word = detect
+	True Intruder Word = detect
+
+[0.0] abstract condit pattern social behavior variabl sum method implement logic instanc
+	System Chosen Intruder Word = sum
+	True Intruder Word = social
+
+[0.0] check camera partit list circuit number imag transit design gate algorithm
+	System Chosen Intruder Word = partit
+	True Intruder Word = list
+
+[0.0] site replic transact string write read execut social type databas replica
+	System Chosen Intruder Word = string
+	True Intruder Word = social
+
+[0.0] softwar virtual social share phone file trust devic user kiosk applic
+	System Chosen Intruder Word = kiosk
+	True Intruder Word = social
+
+[0.0] pebbl node univers transduc tree order root languag label subtre logic
+	System Chosen Intruder Word = transduc
+	True Intruder Word = univers
+
+[1.0] sensit probabl privaci definit handoff knowledg epsilon polynomi user databas adversari
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] ospf integr updat router experi bgp state isr horatio rout network
+	System Chosen Intruder Word = horatio
+	True Intruder Word = integr
+
+[0.0] queri conjunct time cover graph structur width internet relat databas kei
+	System Chosen Intruder Word = width
+	True Intruder Word = internet
+
+[1.0] prime vextenddoubl condit atom difer deriv negationslash mapsto primeprim write turnstileleft
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[1.0] atom system model pattern gener set ferio program constraint logic instanc
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[0.0] wireless relat locat secur ap task report attack access user network
+	System Chosen Intruder Word = ap
+	True Intruder Word = relat
+
+[0.0] child expect fid specif dom conform reason choreographi social servic web
+	System Chosen Intruder Word = fid
+	True Intruder Word = social
+
+[1.0] energi sensor ferio lifetim consumpt system data cycl power period batteri
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[1.0] abstract termin order term rewrit rule context reduct substitut calculu avatar
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[1.0] detect rfid person reader tag event read scan ferio object antenna
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[0.0] store prioriti program rule semant constraint class dictionari integr goal chr
+	System Chosen Intruder Word = chr
+	True Intruder Word = integr
+
+[0.0] time model traffic vehicl tempor event segment cluster integr line road
+	System Chosen Intruder Word = tempor
+	True Intruder Word = integr
+
+[1.0] schema vextenddoubl invers maximum extend map target tgd sourc instanc recoveri
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[0.0] ofici system decid token handoff petri sml object net transit compil
+	System Chosen Intruder Word = ofici
+	True Intruder Word = handoff
+
+[0.0] detect system worm proxi complet behavior mobil smartphon viru signatur malwar
+	System Chosen Intruder Word = signatur
+	True Intruder Word = complet
+
+[1.0] call memori oper handoff page state code stack execut log alloc
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[1.0] virtual player state action server interact game user world vextenddoubl network
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[1.0] solut queri optim strategi problem evalu handoff approxim cost log filter
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] squar solver program wtsol domain integr sol constraint goal solv similar
+	System Chosen Intruder Word = wtsol
+	True Intruder Word = integr
+
+[1.0] queri complex avatar attribut tupl depend relat data answer databas complet
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[1.0] defin order form set variabl definit ferio rule case express function
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[1.0] inform addit gener data comput evalu run issu ferio design collect
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[0.0] replic system payment transact select task avatar cash branch ferio perform
+	System Chosen Intruder Word = ferio
+	True Intruder Word = avatar
+
+[1.0] increas result time rate experi larg handoff measur show averag perform
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] authent protocol secur pair messag devic attack user exchang social kei
+	System Chosen Intruder Word = pair
+	True Intruder Word = social
+
+[1.0] worm string host address infect propag scan multicast internet network rout
+	System Chosen Intruder Word = string
+	True Intruder Word = string
+
+[0.0] automaton node time tree state automata path word express univers xpath
+	System Chosen Intruder Word = xpath
+	True Intruder Word = univers
+
+[0.0] port estim list rate weight count adjust number flow packet sampl
+	System Chosen Intruder Word = packet
+	True Intruder Word = list
+
+[1.0] virtual real time model simul traffic delai packet network avatar emul
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] detect integr face sound featur classif train learn sens sampl classifi
+	System Chosen Intruder Word = classif
+	True Intruder Word = integr
+
+[0.0] work present specif requir social paper base comput approach provid applic
+	System Chosen Intruder Word = paper
+	True Intruder Word = social
+
+[1.0] energi time search structur file data block modul classif network metadata
+	System Chosen Intruder Word = classif
+	True Intruder Word = classif
+
+[0.0] flash input task program wui detect web html java script function
+	System Chosen Intruder Word = wui
+	True Intruder Word = detect
+
+[1.0] call ferio time program rule list analysi evalu code execut partial
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[1.0] document ferio node tree satisfi data xml problem label instanc formula
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[0.0] angel handoff cheat input client refer mobil guard data game attack
+	System Chosen Intruder Word = angel
+	True Intruder Word = handoff
+
+[0.0] stream task handoff latenc modifi tier schedul tcp triag packet applic
+	System Chosen Intruder Word = tier
+	True Intruder Word = handoff
+
+[0.0] snr element handoff connect drive list lscript beam perform antenna throughput
+	System Chosen Intruder Word = lscript
+	True Intruder Word = list
+
+[1.0] point time graph probabl vertic page random vextenddoubl length qualiti walk
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[1.0] wireless strength card signal scan perform rssi channel user list network
+	System Chosen Intruder Word = list
+	True Intruder Word = list
+
+[0.0] effect collabor check sprime trace link llbracket relat class handoff turnstileleft
+	System Chosen Intruder Word = sprime
+	True Intruder Word = handoff
+
+[1.0] control system secur oper vextenddoubl set rule infer combin polici access
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[0.0] element stream estim window integr item data random epsilon sampl algorithm
+	System Chosen Intruder Word = epsilon
+	True Intruder Word = integr
+
+[0.0] peer virtual system detect host simul manag distribut load group network
+	System Chosen Intruder Word = peer
+	True Intruder Word = detect
+
+[0.0] bit index memori node integr bitmap structur string insert space log
+	System Chosen Intruder Word = log
+	True Intruder Word = integr
+
+[0.0] schema attribut program infer primal classif relat datalog success solv algorithm
+	System Chosen Intruder Word = primal
+	True Intruder Word = classif
+
+[0.0] field social defin model program string variabl class method languag object
+	System Chosen Intruder Word = string
+	True Intruder Word = social
+
+[0.0] system speed trace segment peir data handoff road trip trafc gp
+	System Chosen Intruder Word = trafc
+	True Intruder Word = handoff
+
+[1.0] process valid input model compon composit servic semant state web handoff
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[1.0] model system handoff time simul level entiti physic distribut sim interoper
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[1.0] model independ ferio probabl distribut evalu probabilist prob world databas kei
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[1.0] queri conjunct equival set bag semant variabl vextenddoubl relat aggreg databas
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[0.0] input set comput problem number case bound note algorithm size social
+	System Chosen Intruder Word = bound
+	True Intruder Word = social
+
+[1.0] sensor social detect system wireless station event data deploy network fire
+	System Chosen Intruder Word = social
+	True Intruder Word = social
+
+[0.0] queri probabl tupl detect gener set relat answer data databas instanc
+	System Chosen Intruder Word = answer
+	True Intruder Word = detect
+
+[0.0] node relat rank order edg credenti answer subgoal execut bind top
+	System Chosen Intruder Word = credenti
+	True Intruder Word = relat
+
+[0.0] statement program social variabl state relat influenc label code env alloc
+	System Chosen Intruder Word = env
+	True Intruder Word = social
+
+[0.0] solut schema univers set data target tgd chase classif exchang instanc
+	System Chosen Intruder Word = tgd
+	True Intruder Word = classif
+
+[0.0] time simul failur messag event feder case fault list execut rti
+	System Chosen Intruder Word = rti
+	True Intruder Word = list
+
+[1.0] peopl phone handoff locat mobil experi social particip devic user studi
+	System Chosen Intruder Word = handoff
+	True Intruder Word = handoff
+
+[0.0] fals node mef tree program mapsto comput slice debug function univers
+	System Chosen Intruder Word = mapsto
+	True Intruder Word = univers
+
+[1.0] support vextenddoubl cpd itemset dataset test signific cxd avatar function ctd
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[1.0] region time client proxi updat delai latenc server vextenddoubl number network
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[1.0] inform ferio protocol time send updat delai messag commun receiv exchang
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[0.0] call univers point test gener program tabl strategi comput logic function
+	System Chosen Intruder Word = tabl
+	True Intruder Word = univers
+
+[1.0] increment aoi point support entiti answer environ vextenddoubl pir agent algorithm
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[0.0] process session commun box turnstileleft pervas devic list neuron ambient stage
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = list
+
+[0.0] energi call relat wireless bluetooth mobil interfac cell power devic network
+	System Chosen Intruder Word = cell
+	True Intruder Word = relat
+
+[0.0] topolog control node protocol internet oper testb rang experi number neighbor
+	System Chosen Intruder Word = neighbor
+	True Intruder Word = internet
+
+[0.0] open pattern univers program variabl propag domain data expr match function
+	System Chosen Intruder Word = match
+	True Intruder Word = univers
+
+[0.0] region particl macro social oper interest cell dve spreadsheet formula grammar
+	System Chosen Intruder Word = dve
+	True Intruder Word = social
+
+[0.0] tprime program rewrit coin crwl drill turnstileleft express eprim handoff logic
+	System Chosen Intruder Word = tprime
+	True Intruder Word = handoff
+
+[1.0] bit machin avatar instruct address tag regist addr implement code compil
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[1.0] transmit wireless rate frame client power receiv packet transmiss channel classif
+	System Chosen Intruder Word = classif
+	True Intruder Word = classif
+
+[0.0] center point median assign protein cluster problem approxim cost list vextenddoubl
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = list
+
+[1.0] con erent xed cient nite rst speci nition cation avatar ned
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[1.0] condit difier vextenddoubl maxim quanti gener pre deflnit defln rel er
+	System Chosen Intruder Word = vextenddoubl
+	True Intruder Word = vextenddoubl
+
+[0.0] wireless system monitor area test mobil broadcast social air network hoc
+	System Chosen Intruder Word = hoc
+	True Intruder Word = social
+
+[0.0] replic fidel updat item cedar low storag replica univers databas version
+	System Chosen Intruder Word = cedar
+	True Intruder Word = univers
+
+[0.0] work unit system client list request servic aurora state server cach
+	System Chosen Intruder Word = aurora
+	True Intruder Word = list
+
+[1.0] process parallel avatar observ thread cpu commun core implement execut gpu
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] sensor detect monitor data context state cmq featur activ handoff channel
+	System Chosen Intruder Word = cmq
+	True Intruder Word = handoff
+
+[1.0] bluetooth transfer blue monarch mobil ferio link data receiv packet devic
+	System Chosen Intruder Word = ferio
+	True Intruder Word = ferio
+
+[0.0] topolog model simul gener detect link path distribut number internet rout
+	System Chosen Intruder Word = rout
+	True Intruder Word = detect
+
+[0.0] content frame page integr mobil context web devic adapt imag user
+	System Chosen Intruder Word = frame
+	True Intruder Word = integr
+
+[0.0] point interest set track distanc cluster cach neighbor similar algorithm internet
+	System Chosen Intruder Word = track
+	True Intruder Word = internet
+
+[0.0] system program int relat polymorph languag turnstileleft type express function integr
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = integr
+
+[0.0] time player session tra distribut plai server detect number game packet
+	System Chosen Intruder Word = tra
+	True Intruder Word = detect
+
+[1.0] point locat system avatar estim error track distanc measur signal posit
+	System Chosen Intruder Word = avatar
+	True Intruder Word = avatar
+
+[0.0] wireless machin monitor connect client servic link state server user network
+	System Chosen Intruder Word = machin
+	True Intruder Word = link
+
+[0.0] prime process time secur complet oper definit combin constraint polici access
+	System Chosen Intruder Word = prime
+	True Intruder Word = complet
+
+[0.0] cheat detect time player delai refer method creat game network synchron
+	System Chosen Intruder Word = player
+	True Intruder Word = creat
+
+[0.0] detect rfid person link locat reader event tag data object antenna
+	System Chosen Intruder Word = antenna
+	True Intruder Word = link
+
+[1.0] pattern program reader rule class method languag implement object analysi type
+	System Chosen Intruder Word = reader
+	True Intruder Word = reader
+
+[0.0] condit erent term oper nite rst speci nition cation link ned
+	System Chosen Intruder Word = speci
+	True Intruder Word = link
+
+[1.0] content page mobil context web tgd devic adapt imag user displai
+	System Chosen Intruder Word = tgd
+	True Intruder Word = tgd
+
+[0.0] pebbl tree order regular nest relat languag word user express logic
+	System Chosen Intruder Word = pebbl
+	True Intruder Word = user
+
+[0.0] locat sensit anonym ap connect privaci task report user kei adversari
+	System Chosen Intruder Word = ap
+	True Intruder Word = connect
+
+[0.0] model probabl tupl set event distribut comput probabilist world databas detect
+	System Chosen Intruder Word = tupl
+	True Intruder Word = detect
+
+[0.0] differ search structur protein variabl ssa propag domain constraint bound relat
+	System Chosen Intruder Word = ssa
+	True Intruder Word = relat
+
+[0.0] virtual process real area session mobil camera user environ commun imag
+	System Chosen Intruder Word = session
+	True Intruder Word = user
+
+[0.0] point prolog prune tabl select context answer cmq detect mon prefer
+	System Chosen Intruder Word = cmq
+	True Intruder Word = detect
+
+[0.0] input model composit messag servic state web net transit creat complet
+	System Chosen Intruder Word = composit
+	True Intruder Word = creat
+
+[1.0] energi consumpt wireless time transfer interfac data power string network batteri
+	System Chosen Intruder Word = string
+	True Intruder Word = string
+
+[1.0] authent protocol secur messag trust classif devic attack user exchang kei
+	System Chosen Intruder Word = classif
+	True Intruder Word = classif
+
+[0.0] prime prioriti program unfold annot string rule semant constraint goal chr
+	System Chosen Intruder Word = chr
+	True Intruder Word = string
+
+[0.0] center point queri time probabl data abstract distanc cluster problem algorithm
+	System Chosen Intruder Word = cluster
+	True Intruder Word = abstract
+
+[0.0] peer string virtual region interest messag cell load multicast group algorithm
+	System Chosen Intruder Word = region
+	True Intruder Word = string
+
+[0.0] prime squar set abstract mapsto variabl rule sol constraint bind goal
+	System Chosen Intruder Word = mapsto
+	True Intruder Word = abstract
+
+[1.0] sensor node system protocol wireless rang tgd data mote deploy network
+	System Chosen Intruder Word = tgd
+	True Intruder Word = tgd
+
+[0.0] work result time system requir base data comput develop perform number
+	System Chosen Intruder Word = perform
+	True Intruder Word = develop
+
+[0.0] point locat estim system mobil strength track measur complet signal posit
+	System Chosen Intruder Word = track
+	True Intruder Word = complet
+
+[1.0] worm time traffic vehicl abstract speed segment infect data road rout
+	System Chosen Intruder Word = abstract
+	True Intruder Word = abstract
+
+[1.0] program data wui comput languag case express type turnstileleft applic function
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = turnstileleft
+
+[0.0] share system creat mobil file servic data access user applic complet
+	System Chosen Intruder Word = mobil
+	True Intruder Word = complet
+
+[0.0] sensor detect phone mobil sound state classif devic user complet sens
+	System Chosen Intruder Word = classif
+	True Intruder Word = complet
+
+[1.0] time player onlin distribut detect plai server interact game network world
+	System Chosen Intruder Word = detect
+	True Intruder Word = detect
+
+[0.0] wireless rate client relat link receiv packet access channel network throughput
+	System Chosen Intruder Word = client
+	True Intruder Word = relat
+
+[1.0] process call detect turnstileleft behavior thread cell signal smartphon signatur user
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = turnstileleft
+
+[0.0] sprime pcf program llbracket rrbracket connect interpret relat turnstileleft subtyp polynomi
+	System Chosen Intruder Word = sprime
+	True Intruder Word = connect
+
+[1.0] region client tgd updat proxi entiti architectur messag latenc state server
+	System Chosen Intruder Word = tgd
+	True Intruder Word = tgd
+
+[0.0] replic fidel complet updat transact task item data replica databas version
+	System Chosen Intruder Word = fidel
+	True Intruder Word = complet
+
+[0.0] topolog model simul traffic delai link packet system flow network rout
+	System Chosen Intruder Word = topolog
+	True Intruder Word = system
+
+[1.0] result defin order gener regular set comput case note function algorithm
+	System Chosen Intruder Word = regular
+	True Intruder Word = regular
+
+[0.0] prime system term variabl regular rule context turnstileleft languag type calculu
+	System Chosen Intruder Word = turnstileleft
+	True Intruder Word = regular
+
+[0.0] bit instruct pattern program tag languag code execut compil function complet
+	System Chosen Intruder Word = compil
+	True Intruder Word = complet
+
+[0.0] project unit model compon composit map base implement develop applic design
+	System Chosen Intruder Word = composit
+	True Intruder Word = unit
+
+[0.0] schema prime solut set map string data target tgd chase instanc
+	System Chosen Intruder Word = tgd
+	True Intruder Word = string
+
+[0.0] stream estim item data random epsilon approxim space complet sampl algorithm
+	System Chosen Intruder Word = epsilon
+	True Intruder Word = complet
+
+[0.0] abstract termin order symbol term rewrit program relat rule variabl substitut
+	System Chosen Intruder Word = termin
+	True Intruder Word = relat
+
+[0.0] queri conjunct tupl set semant variabl relat creat data databas complet
+	System Chosen Intruder Word = conjunct
+	True Intruder Word = creat
+
+[1.0] solut queri optim problem approxim abstract evalu flow cost filter algorithm
+	System Chosen Intruder Word = abstract
+	True Intruder Word = abstract
+
+[1.0] increment memori time support data state block stack classif modul log
+	System Chosen Intruder Word = classif
+	True Intruder Word = classif
+
+[1.0] child node document tree root satisfi data tgd path label xml
+	System Chosen Intruder Word = tgd
+	True Intruder Word = tgd
+
+[0.0] atom model program set semant rule interpret predic claus logic detect
+	System Chosen Intruder Word = atom
+	True Intruder Word = detect
+
+[0.0] particl model system time simul relat behavior state method agent step
+	System Chosen Intruder Word = agent
+	True Intruder Word = relat
+
+[1.0] process parallel time simul event regular state comput perform processor execut
+	System Chosen Intruder Word = regular
+	True Intruder Word = regular
+
+[0.0] element bit bluetooth blue detect monarch lscript string devic insert log
+	System Chosen Intruder Word = lscript
+	True Intruder Word = detect
+
+[1.0] work unit time system model reader simul messag servic feder distribut
+	System Chosen Intruder Word = reader
+	True Intruder Word = reader
+
