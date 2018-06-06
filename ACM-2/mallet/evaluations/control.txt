@@ -1,6 +1,0 @@
-/exp/fabianowd/icml2015/ACM-2/mallet/borw/150/t01/Result/result.part, 0, 149
-/exp/fabianowd/icml2015/ACM-2/mallet/borw/100/t01/Result/result.part, 150, 249
-/exp/fabianowd/icml2015/ACM-2/mallet/borw/50/t01/Result/result.part, 250, 299
-/exp/fabianowd/icml2015/ACM-2/mallet/unigrams/150/t01/Result/result.part, 300, 449
-/exp/fabianowd/icml2015/ACM-2/mallet/unigrams/100/t01/Result/result.part, 450, 549
-/exp/fabianowd/icml2015/ACM-2/mallet/unigrams/50/t01/Result/result.part, 550, 599
